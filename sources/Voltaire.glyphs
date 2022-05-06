@@ -1,11 +1,10 @@
 {
-.appVersion = "1356";
+.appVersion = "1361";
 DisplayStrings = (
 "/Scommaaccent",
 "/commaturnedabovecomb",
 "/Uogonek",
 "/ogonekcomb",
-"",
 "/commaaccentcomb/Tcommaaccent",
 "/commaaccentcomb T/Tcommaaccent",
 "/Ecircumflexacute/Ecircumflexdotbelow/Ecircumflexgrave/Ecircumflexhookabove/Ecircumflextilde/Edotbelow",
@@ -19133,39 +19132,6 @@ width = 779;
 unicode = 0219;
 },
 {
-glyphname = scommaaccent;
-lastChange = "2021-08-22 04:13:59 +0000";
-layers = (
-{
-components = (
-{
-name = s;
-},
-{
-name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 187, 0}";
-}
-);
-layerId = master01;
-width = 779;
-},
-{
-components = (
-{
-name = s;
-},
-{
-name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 187, 0}";
-}
-);
-layerId = "AC8F5225-6E8D-48D3-AF8E-295F90E86009";
-width = 779;
-}
-);
-unicode = 0219;
-},
-{
 glyphname = sdotaccent;
 lastChange = "2021-08-22 04:13:59 +0000";
 layers = (
@@ -19623,39 +19589,6 @@ width = 646;
 }
 );
 unicode = 0163;
-},
-{
-glyphname = tcommaaccent;
-lastChange = "2021-08-22 04:13:59 +0000";
-layers = (
-{
-components = (
-{
-name = t;
-},
-{
-name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 173, 0}";
-}
-);
-layerId = master01;
-width = 625;
-},
-{
-components = (
-{
-name = t;
-},
-{
-name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 173, 0}";
-}
-);
-layerId = "AC8F5225-6E8D-48D3-AF8E-295F90E86009";
-width = 625;
-}
-);
-unicode = 021B;
 },
 {
 glyphname = tcommaaccent;
