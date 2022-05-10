@@ -2,15 +2,7 @@
 
 Fontbakery version: 0.8.8
 
-<details><summary><b>[1] Family checks</b></summary><div><details><summary>🔥 <b>FAIL:</b> Does font file include unacceptable control character glyphs? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/family/control_chars">com.google.fonts/check/family/control_chars</a>)</summary><div>
-
-
-* 🔥 **FAIL** The following unacceptable control characters were identified:
- fonts/ttf/Voltaire-Bold.ttf: uni0001, uni0002, uni0003, uni0004, uni0005, uni0006, uni0007, uni0008, uni0009, uni0010, uni0011, uni0012, uni0013, uni0014, uni0015, uni0016, uni0017, uni0018, uni0019
- fonts/ttf/Voltaire-Regular.ttf: uni0001, uni0002, uni0003, uni0004, uni0005, uni0006, uni0007, uni0008, uni0009, uni0010, uni0011, uni0012, uni0013, uni0014, uni0015, uni0016, uni0017, uni0018, uni0019
- fonts/ttf/Voltaire-SemiBold.ttf: uni0001, uni0002, uni0003, uni0004, uni0005, uni0006, uni0007, uni0008, uni0009, uni0010, uni0011, uni0012, uni0013, uni0014, uni0015, uni0016, uni0017, uni0018, uni0019
- [code: unacceptable]
-</div></details><br></div></details><details><summary><b>[16] Voltaire-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
+<details><summary><b>[16] Voltaire-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
 
 
 * 🔥 **FAIL** License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 3 (WINDOWS) is not specified for that. Value was: "This Font Software is licensed under the SIL Open Font License, Version 1.1." Must be changed to "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" [code: wrong]
@@ -159,16 +151,16 @@ with Reserved Font Names "Voltaire" and "Voltaire One".") contains "Reserved Fon
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* udieresis
-	* zero
+	* otilde
+	* R
+	* three
+	* ampersand
+	* d
+	* edieresis
 	* copyright
-	* Y
-	* P
-	* Eth
-	* oslash
-	* Aring
+	* Ocircumflex
 	* E
-	* oacute and 108 more.
+	* zero and 108 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets">com.google.fonts/check/ligature_carets</a>)</summary><div>
@@ -370,7 +362,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 19 | 31 | 316 | 22 | 255 | 0 |
+| 0 | 18 | 31 | 316 | 22 | 256 | 0 |
 | 0% | 3% | 5% | 49% | 3% | 40% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
