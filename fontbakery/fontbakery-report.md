@@ -159,16 +159,16 @@ with Reserved Font Names "Voltaire" and "Voltaire One".") contains "Reserved Fon
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* yen
-	* percent
-	* Ecircumflex
-	* ntilde
-	* OE
-	* edieresis
-	* six
-	* AE
-	* Ucircumflex
-	* dollar and 108 more.
+	* udieresis
+	* zero
+	* copyright
+	* Y
+	* P
+	* Eth
+	* oslash
+	* Aring
+	* E
+	* oacute and 108 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets">com.google.fonts/check/ligature_carets</a>)</summary><div>
