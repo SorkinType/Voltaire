@@ -2,34 +2,25 @@
 
 Fontbakery version: 0.8.8
 
-<details><summary><b>[16] Voltaire-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
+<details><summary><b>[13] Voltaire-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 3 (WINDOWS) is not specified for that. Value was: "This Font Software is licensed under the SIL Open Font License, Version 1.1." Must be changed to "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" [code: wrong]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 2571, but got 2020 instead [code: ascent]
+</div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
 
 
-* 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
-But instead we have got:
-"Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)
-with Reserved Font Names "Voltaire" and "Voltaire One"." [code: bad-notice-format]
-</div></details><details><summary>🔥 <b>FAIL:</b> Name table entries should not contain line-breaks. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/line_breaks">com.google.fonts/check/name/line_breaks</a>)</summary><div>
+* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
+* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
+ [code: http]
+</div></details><details><summary>⚠ <b>WARN:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
 
 
-* 🔥 **FAIL** Name entry COPYRIGHT_NOTICE on platform WINDOWS contains a line-break. [code: line-break]
-</div></details><details><summary>🔥 <b>FAIL:</b> Name table strings must not contain the string 'Reserved Font Name'. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/rfn">com.google.fonts/check/name/rfn</a>)</summary><div>
-
-
-* 🔥 **FAIL** Name table entry ("Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)
-with Reserved Font Names "Voltaire" and "Voltaire One".") contains "Reserved Font Name". This is an error except in a few specific rare cases. [code: rfn]
-</div></details><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/Voltaire-Bold.ttf', 'fonts/ttf/Voltaire-Regular.ttf', 'fonts/ttf/Voltaire-SemiBold.ttf']. [code: missing-os2-fsselection-bit7]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 570, but got 531 instead. [code: descent]
+* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
+* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
+* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
+* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=14] [code: http-in-license-info]
+* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
+ [code: http]
 </div></details><details><summary>⚠ <b>WARN:</b> Description strings in the name table must not exceed 200 characters. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/description_max_length">com.google.fonts/check/name/description_max_length</a>)</summary><div>
 
 
@@ -62,11 +53,11 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: dcroat	Contours detected: 3	Expected: 2
 	- Glyph name: Obreve	Contours detected: 2	Expected: 3
 	- Glyph name: tcaron	Contours detected: 1	Expected: 2
-	- Glyph name: uni018F	Contours detected: 0	Expected: 2
-	- Glyph name: ohorn	Contours detected: 0	Expected: 2
-	- Glyph name: uhorn	Contours detected: 0	Expected: 1
-	- Glyph name: uni01EB	Contours detected: 3	Expected: 2 
-	- And 173 more.
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
+	- Glyph name: uni01EA	Contours detected: 3	Expected: 2 
+	- And 61 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -91,7 +82,7 @@ Use -F or --full-lists to disable shortening of long lists.
 	* M (U+004D) contains a short segment L<<628.0,430.0>--<628.0,431.0>>
 	* N (U+004E) contains a short segment L<<158.0,1612.0>--<183.0,1612.0>>
 	* N (U+004E) contains a short segment L<<965.0,0.0>--<941.0,0.0>>
-	* V (U+0056) contains a short segment L<<491.0,-30.0>--<463.0,-30.0>> and 65 more.
+	* V (U+0056) contains a short segment L<<491.0,-30.0>--<463.0,-30.0>> and 53 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-short-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
@@ -112,37 +103,28 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
  * F (U+0046): L<<178.0,1594.0>--<733.0,1593.0>>
  * Imacron (U+012A): L<<21.0,1701.0>--<22.0,1859.0>>
  * Imacron (U+012A): L<<504.0,1859.0>--<505.0,1701.0>>
- * Iogonek (U+012E): L<<372.0,-365.0>--<371.0,-506.0>> and 76 more.
+ * Iogonek (U+012E): L<<372.0,-365.0>--<371.0,-506.0>> and 131 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[17] Voltaire-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[14] Voltaire-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 3 (WINDOWS) is not specified for that. Value was: "This Font Software is licensed under the SIL Open Font License, Version 1.1." Must be changed to "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" [code: wrong]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 2571, but got 2020 instead [code: ascent]
+</div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
 
 
-* 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
-But instead we have got:
-"Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)
-with Reserved Font Names "Voltaire" and "Voltaire One"." [code: bad-notice-format]
-</div></details><details><summary>🔥 <b>FAIL:</b> Name table entries should not contain line-breaks. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/line_breaks">com.google.fonts/check/name/line_breaks</a>)</summary><div>
+* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
+* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
+ [code: http]
+</div></details><details><summary>⚠ <b>WARN:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
 
 
-* 🔥 **FAIL** Name entry COPYRIGHT_NOTICE on platform WINDOWS contains a line-break. [code: line-break]
-</div></details><details><summary>🔥 <b>FAIL:</b> Name table strings must not contain the string 'Reserved Font Name'. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/rfn">com.google.fonts/check/name/rfn</a>)</summary><div>
-
-
-* 🔥 **FAIL** Name table entry ("Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)
-with Reserved Font Names "Voltaire" and "Voltaire One".") contains "Reserved Font Name". This is an error except in a few specific rare cases. [code: rfn]
-</div></details><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/Voltaire-Bold.ttf', 'fonts/ttf/Voltaire-Regular.ttf', 'fonts/ttf/Voltaire-SemiBold.ttf']. [code: missing-os2-fsselection-bit7]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 570, but got 531 instead. [code: descent]
+* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
+* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
+* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
+* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=14] [code: http-in-license-info]
+* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
+ [code: http]
 </div></details><details><summary>⚠ <b>WARN:</b> Description strings in the name table must not exceed 200 characters. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/description_max_length">com.google.fonts/check/name/description_max_length</a>)</summary><div>
 
 
@@ -151,16 +133,16 @@ with Reserved Font Names "Voltaire" and "Voltaire One".") contains "Reserved Fon
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* otilde
-	* R
-	* three
+	* ecircumflex
+	* k
 	* ampersand
-	* d
-	* edieresis
-	* copyright
-	* Ocircumflex
-	* E
-	* zero and 108 more.
+	* hbar
+	* three
+	* eight
+	* P
+	* acircumflex
+	* six
+	* Odieresis and 108 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets">com.google.fonts/check/ligature_carets</a>)</summary><div>
@@ -191,11 +173,11 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: dcroat	Contours detected: 3	Expected: 2
 	- Glyph name: Obreve	Contours detected: 2	Expected: 3
 	- Glyph name: tcaron	Contours detected: 1	Expected: 2
-	- Glyph name: uni018F	Contours detected: 0	Expected: 2
-	- Glyph name: ohorn	Contours detected: 0	Expected: 2
-	- Glyph name: uhorn	Contours detected: 0	Expected: 1
-	- Glyph name: uni01EB	Contours detected: 3	Expected: 2 
-	- And 173 more.
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
+	- Glyph name: uni01EA	Contours detected: 3	Expected: 2 
+	- And 61 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -220,7 +202,7 @@ Use -F or --full-lists to disable shortening of long lists.
 	* M (U+004D) contains a short segment L<<628.0,430.0>--<628.0,431.0>>
 	* N (U+004E) contains a short segment L<<158.0,1612.0>--<183.0,1612.0>>
 	* N (U+004E) contains a short segment L<<965.0,0.0>--<941.0,0.0>>
-	* V (U+0056) contains a short segment L<<491.0,-30.0>--<463.0,-30.0>> and 48 more.
+	* V (U+0056) contains a short segment L<<491.0,-30.0>--<463.0,-30.0>> and 53 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-short-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
@@ -241,37 +223,28 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
  * F (U+0046): L<<178.0,1594.0>--<733.0,1593.0>>
  * Imacron (U+012A): L<<21.0,1701.0>--<22.0,1859.0>>
  * Imacron (U+012A): L<<504.0,1859.0>--<505.0,1701.0>>
- * Iogonek (U+012E): L<<372.0,-365.0>--<371.0,-506.0>> and 91 more.
+ * Iogonek (U+012E): L<<372.0,-365.0>--<371.0,-506.0>> and 131 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[16] Voltaire-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[13] Voltaire-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 3 (WINDOWS) is not specified for that. Value was: "This Font Software is licensed under the SIL Open Font License, Version 1.1." Must be changed to "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" [code: wrong]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 2571, but got 2020 instead [code: ascent]
+</div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
 
 
-* 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
-But instead we have got:
-"Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)
-with Reserved Font Names "Voltaire" and "Voltaire One"." [code: bad-notice-format]
-</div></details><details><summary>🔥 <b>FAIL:</b> Name table entries should not contain line-breaks. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/line_breaks">com.google.fonts/check/name/line_breaks</a>)</summary><div>
+* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
+* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
+ [code: http]
+</div></details><details><summary>⚠ <b>WARN:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
 
 
-* 🔥 **FAIL** Name entry COPYRIGHT_NOTICE on platform WINDOWS contains a line-break. [code: line-break]
-</div></details><details><summary>🔥 <b>FAIL:</b> Name table strings must not contain the string 'Reserved Font Name'. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/rfn">com.google.fonts/check/name/rfn</a>)</summary><div>
-
-
-* 🔥 **FAIL** Name table entry ("Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)
-with Reserved Font Names "Voltaire" and "Voltaire One".") contains "Reserved Font Name". This is an error except in a few specific rare cases. [code: rfn]
-</div></details><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/Voltaire-Bold.ttf', 'fonts/ttf/Voltaire-Regular.ttf', 'fonts/ttf/Voltaire-SemiBold.ttf']. [code: missing-os2-fsselection-bit7]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 570, but got 531 instead. [code: descent]
+* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
+* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
+* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
+* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=14] [code: http-in-license-info]
+* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
+ [code: http]
 </div></details><details><summary>⚠ <b>WARN:</b> Description strings in the name table must not exceed 200 characters. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/description_max_length">com.google.fonts/check/name/description_max_length</a>)</summary><div>
 
 
@@ -304,11 +277,11 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: dcroat	Contours detected: 3	Expected: 2
 	- Glyph name: Obreve	Contours detected: 2	Expected: 3
 	- Glyph name: tcaron	Contours detected: 1	Expected: 2
-	- Glyph name: uni018F	Contours detected: 0	Expected: 2
-	- Glyph name: ohorn	Contours detected: 0	Expected: 2
-	- Glyph name: uhorn	Contours detected: 0	Expected: 1
-	- Glyph name: uni01EB	Contours detected: 3	Expected: 2 
-	- And 173 more.
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
+	- Glyph name: uni01EA	Contours detected: 3	Expected: 2 
+	- And 61 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -333,7 +306,7 @@ Use -F or --full-lists to disable shortening of long lists.
 	* M (U+004D) contains a short segment L<<628.0,430.0>--<628.0,431.0>>
 	* N (U+004E) contains a short segment L<<158.0,1612.0>--<183.0,1612.0>>
 	* N (U+004E) contains a short segment L<<965.0,0.0>--<941.0,0.0>>
-	* V (U+0056) contains a short segment L<<491.0,-30.0>--<463.0,-30.0>> and 48 more.
+	* V (U+0056) contains a short segment L<<491.0,-30.0>--<463.0,-30.0>> and 53 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-short-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
@@ -354,7 +327,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
  * F (U+0046): L<<178.0,1594.0>--<733.0,1593.0>>
  * Imacron (U+012A): L<<21.0,1701.0>--<22.0,1859.0>>
  * Imacron (U+012A): L<<504.0,1859.0>--<505.0,1701.0>>
- * Iogonek (U+012E): L<<372.0,-365.0>--<371.0,-506.0>> and 91 more.
+ * Iogonek (U+012E): L<<372.0,-365.0>--<371.0,-506.0>> and 131 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
 </div></details><br></div></details>
@@ -362,8 +335,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 18 | 31 | 316 | 22 | 256 | 0 |
-| 0% | 3% | 5% | 49% | 3% | 40% | 0% |
+| 0 | 3 | 37 | 313 | 22 | 268 | 0 |
+| 0% | 0% | 6% | 49% | 3% | 42% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
