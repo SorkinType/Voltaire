@@ -1,20 +1,6 @@
 {
 .appVersion = "3133";
 .formatVersion = 3;
-DisplayStrings = (
-"/one.dnom/two.dnom/three.dnom/four.dnom/one.numr/two.numr/three.numr/four.numr 
-
-⁄¹²½⅓⅔¼³¾
-¹
-
-/periodcentered.loclCAT/periodcentered.loclCAT.case"
-);
-axes = (
-{
-name = Weight;
-tag = wght;
-}
-);
 classes = (
 {
 automatic = 1;
@@ -67,10 +53,6 @@ wght = {
 },
 {
 name = "Use Typo Metrics";
-value = 1;
-},
-{
-name = "Use Extension Kerning";
 value = 1;
 },
 {
@@ -343,9 +325,6 @@ tag = zero;
 );
 fontMaster = (
 {
-axesValues = (
-182
-);
 customParameters = (
 {
 name = typoAscender;
@@ -373,7 +352,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2020;
+value = 2571;
 },
 {
 name = winDescent;
@@ -16227,21 +16206,33 @@ unicode = 92;
 },
 {
 glyphname = periodcentered.loclCAT;
-lastChange = "2022-10-14 13:55:51 +0000";
+lastChange = "2022-10-14 14:09:58 +0000";
 layers = (
 {
 layerId = master01;
-width = 1200;
+shapes = (
+{
+pos = (0,680);
+ref = period;
+}
+);
+width = 578;
 }
 );
 },
 {
 glyphname = periodcentered.loclCAT.case;
-lastChange = "2022-10-14 13:55:51 +0000";
+lastChange = "2022-10-14 14:10:02 +0000";
 layers = (
 {
 layerId = master01;
-width = 1200;
+shapes = (
+{
+pos = (0,680);
+ref = period;
+}
+);
+width = 578;
 }
 );
 },
@@ -22059,9 +22050,6 @@ unicode = 731;
 );
 instances = (
 {
-axesValues = (
-182
-);
 instanceInterpolations = {
 master01 = 1;
 };
