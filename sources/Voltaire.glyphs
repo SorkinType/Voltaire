@@ -22121,7 +22121,7 @@ key = descriptions;
 values = (
 {
 language = dflt;
-value = "Voltaire is a low contrast condensed semi-geometric style sans serif. Voltaire is highly readable and will work from medium yext sizes all the way up to larger display settings. Voltaire was inspired by 20th century Swedish posters whose letters have similar forms.";
+value = "Voltaire is a low contrast condensed semi-geometric style sans serif.";
 }
 );
 },
