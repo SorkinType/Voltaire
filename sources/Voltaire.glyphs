@@ -42,16 +42,6 @@ name = blueShift;
 value = 7;
 },
 {
-name = "Axis Mappings";
-value = {
-wght = {
-400 = 182;
-600 = 200;
-700 = 259;
-};
-};
-},
-{
 name = "Use Typo Metrics";
 value = 1;
 },
