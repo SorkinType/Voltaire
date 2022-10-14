@@ -58,10 +58,6 @@ value = 1;
 {
 name = "Use Line Breaks";
 value = 1;
-},
-{
-name = "Enforce Compatibility Check";
-value = 1;
 }
 );
 date = "2022-05-11 03:24:10 +0000";
@@ -13132,9 +13128,15 @@ unicode = 7827;
 },
 {
 glyphname = f_f;
-lastChange = "2022-10-14 13:55:51 +0000";
+lastChange = "2022-10-14 14:19:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (560,0);
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -13151,9 +13153,15 @@ width = 1120;
 },
 {
 glyphname = fi;
-lastChange = "2022-10-14 13:55:51 +0000";
+lastChange = "2022-10-14 14:19:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (543,0);
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -13171,9 +13179,15 @@ unicode = 64257;
 },
 {
 glyphname = fl;
-lastChange = "2022-10-14 13:55:51 +0000";
+lastChange = "2022-10-14 14:19:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (517,0);
+}
+);
 layerId = master01;
 shapes = (
 {
