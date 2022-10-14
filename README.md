@@ -1,4 +1,4 @@
-# My Font
+# Voltaire
 
 [![][Fontbakery]](https://SorkinType.github.io/Voltaire/fontbakery/fontbakery-report.html)
 [![][Universal]](https://SorkinType.github.io/Voltaire/fontbakery/fontbakery-report.html)
@@ -12,11 +12,11 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSorkinType%2FVoltaire%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSorkinType%2FVoltaire%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Description of your font goes here. We recommend to start with a very short presentation line (the kind you would use on twitter to present your project for example), and then add as much details as necesary :-) Origin of the project, idea of usage, concept of creation… but also number of masters, axes, character sets, etc.
+Voltaire is a low-contrast condensed semi-geometric style sans-serif. Voltaire is highly readable and will work from medium text sizes all the way up to larger display settings. Voltaire was inspired by 20th century Swedish posters whose letters have similar forms.
 
-Don't hesitate to create images!
-
+![Sample Image](documentation/image2.png)
 ![Sample Image](documentation/image1.png)
+![Sample Image](documentation/image3.png)
 
 ## About
 
@@ -32,17 +32,15 @@ If you want to build fonts manually on your own computer:
 * `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
 * `make proof` will generate HTML proof files.
 
-The proof files and QA tests are also available automatically via GitHub Actions - look at https://SorkinType.github.io/Voltaire.
 
 ## Changelog
 
 When you update your font (new version or new release), please report all notable changes here, with a date.
 [Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
-Changelog example:
 
-**26 May 2021. Version 2.13**
-- MAJOR Font turned to a variable font.
-- SIGNIFICANT New Stylistic sets added.
+
+**14 October 2022. Version 1.007**
+- Glyphset expanded (from 231 to 711 glyphs)
 
 ## License
 
