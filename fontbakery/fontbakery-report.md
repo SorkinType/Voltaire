@@ -9,21 +9,21 @@ Fontbakery version: 0.8.8
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 580, but got 570 instead. [code: descent]
+* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 673, but got 570 instead. [code: descent]
 </div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* threequarters
-	* D
-	* Edieresis
-	* divide
-	* onequarter
-	* AE
-	* h
+	* Ecircumflex
+	* ntilde
+	* W
+	* acircumflex
+	* currency
+	* k
+	* R
+	* odieresis
 	* J
-	* Otilde
-	* ograve and 108 more.
+	* r and 110 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -43,17 +43,17 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- .null
 	- six.lf
 	- five.lf
-	- nine.lf
-	- four.lf
-	- zero.lf
-	- three.lf
-	- two.lf
+	- one.lf
 	- seven.lf
-	- eight.lf 
-	- And one.lf
+	- two.lf
+	- three.lf
+	- zero.lf
+	- eight.lf
+	- .null
+	- nine.lf 
+	- And four.lf
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -64,16 +64,16 @@ Use -F or --full-lists to disable shortening of long lists.
 The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
+	- Glyph name: Eth	Contours detected: 3	Expected: 2
 	- Glyph name: oslash	Contours detected: 2	Expected: 3
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 	- Glyph name: dcroat	Contours detected: 3	Expected: 2
-	- Glyph name: Obreve	Contours detected: 2	Expected: 3
+	- Glyph name: Lslash	Contours detected: 2	Expected: 1
 	- Glyph name: tcaron	Contours detected: 1	Expected: 2
-	- Glyph name: ohorn	Contours detected: 3	Expected: 2
-	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
-	- Glyph name: uhorn	Contours detected: 2	Expected: 1
-	- Glyph name: uni01EA	Contours detected: 3	Expected: 2 
-	- And 43 more.
+	- Glyph name: Tbar	Contours detected: 2	Expected: 1
+	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2 
+	- And 50 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -106,15 +106,15 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 
 
 * ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
- * Amacron (U+0100): L<<248.0,1701.0>--<249.0,1859.0>>
- * Amacron (U+0100): L<<731.0,1859.0>--<732.0,1701.0>>
+ * Amacron (U+0100): L<<235.0,1701.0>--<236.0,1859.0>>
+ * Amacron (U+0100): L<<718.0,1859.0>--<719.0,1701.0>>
  * Aogonek (U+0104): L<<951.0,-365.0>--<950.0,-506.0>>
- * Emacron (U+0112): L<<196.0,1701.0>--<197.0,1859.0>>
- * Emacron (U+0112): L<<679.0,1859.0>--<680.0,1701.0>>
- * Eogonek (U+0118): L<<709.0,-365.0>--<708.0,-506.0>>
+ * Emacron (U+0112): L<<190.0,1701.0>--<191.0,1859.0>>
+ * Emacron (U+0112): L<<673.0,1859.0>--<674.0,1701.0>>
+ * Eogonek (U+0118): L<<706.0,-365.0>--<705.0,-506.0>>
  * F (U+0046): L<<178.0,1594.0>--<733.0,1593.0>>
- * Imacron (U+012A): L<<26.0,1701.0>--<27.0,1859.0>>
- * Imacron (U+012A): L<<509.0,1859.0>--<510.0,1701.0>>
+ * Imacron (U+012A): L<<11.0,1701.0>--<12.0,1859.0>>
+ * Imacron (U+012A): L<<494.0,1859.0>--<495.0,1701.0>>
  * Iogonek (U+012E): L<<372.0,-365.0>--<371.0,-506.0>> and 124 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
