@@ -14,16 +14,16 @@ Fontbakery version: 0.8.8
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* Ocircumflex
-	* Odieresis
-	* rcaron
-	* H
-	* oe
-	* yen
-	* Ograve
-	* Q
-	* q
-	* J and 108 more.
+	* threequarters
+	* D
+	* Edieresis
+	* divide
+	* onequarter
+	* AE
+	* h
+	* J
+	* Otilde
+	* ograve and 108 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -43,16 +43,16 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
+	- .null
+	- six.lf
+	- five.lf
+	- nine.lf
 	- four.lf
 	- zero.lf
 	- three.lf
-	- eight.lf
-	- .null
 	- two.lf
 	- seven.lf
-	- five.lf
-	- nine.lf
-	- six.lf 
+	- eight.lf 
 	- And one.lf
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
