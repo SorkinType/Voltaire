@@ -2,22 +2,39 @@
 
 Fontbakery version: 0.8.8
 
-<details><summary><b>[8] Voltaire-Regular.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
+<details><summary><b>[11] Voltaire-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version number has increased since previous release on Google Fonts? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/version_bump">com.google.fonts/check/version_bump</a>)</summary><div>
+
+
+* 🔥 **FAIL** Version number 1.0070037841796875 is equal to version on Google Fonts GitHub repo.
+</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
+
+
+* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 580, but got 570 instead. [code: descent]
+</div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* registered
-	* section
-	* Rcaron
-	* eight
-	* ntilde
-	* g
-	* n
-	* two
-	* ugrave
-	* F and 108 more.
+	* Ocircumflex
+	* Odieresis
+	* rcaron
+	* H
+	* oe
+	* yen
+	* Ograve
+	* Q
+	* q
+	* J and 108 more.
 
 Use -F or --full-lists to disable shortening of long lists.
+</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+
+
+* ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
+	- f + f
+	- f + i
+	- i + l
+
+   [code: lacks-kern-info]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -26,16 +43,16 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- two.lf
-	- six.lf
-	- five.lf
-	- eight.lf
-	- .null
-	- seven.lf
+	- four.lf
 	- zero.lf
 	- three.lf
+	- eight.lf
+	- .null
+	- two.lf
+	- seven.lf
+	- five.lf
 	- nine.lf
-	- four.lf 
+	- six.lf 
 	- And one.lf
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
@@ -56,7 +73,7 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
 	- Glyph name: uhorn	Contours detected: 2	Expected: 1
 	- Glyph name: uni01EA	Contours detected: 3	Expected: 2 
-	- And 65 more.
+	- And 43 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -64,26 +81,27 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** No dotted circle glyph present [code: missing-dotted-circle]
-</div></details><details><summary>⚠ <b>WARN:</b> Does GPOS table have kerning information? This check skips monospaced fonts as defined by post.isFixedPitch value (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/gpos.html#com.google.fonts/check/gpos_kerning_info">com.google.fonts/check/gpos_kerning_info</a>)</summary><div>
+</div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
-* ⚠ **WARN** GPOS table lacks kerning information. [code: lacks-kern-info]
+* ⚠ **WARN** The following glyphs have segments which seem very short:
+	* five (U+0035) contains a short segment L<<185.0,728.0>--<183.0,726.0>>
+	* G (U+0047) contains a short segment L<<869.0,643.0>--<868.0,643.0>>
+	* M (U+004D) contains a short segment L<<158.0,1612.0>--<201.0,1612.0>>
+	* M (U+004D) contains a short segment L<<1055.0,1612.0>--<1098.0,1612.0>>
+	* M (U+004D) contains a short segment L<<629.0,431.0>--<629.0,429.0>>
+	* M (U+004D) contains a short segment L<<629.0,429.0>--<628.0,430.0>>
+	* M (U+004D) contains a short segment L<<628.0,430.0>--<628.0,431.0>>
+	* N (U+004E) contains a short segment L<<158.0,1612.0>--<183.0,1612.0>>
+	* N (U+004E) contains a short segment L<<965.0,0.0>--<941.0,0.0>>
+	* V (U+0056) contains a short segment L<<491.0,-30.0>--<463.0,-30.0>> and 50 more.
+
+Use -F or --full-lists to disable shortening of long lists. [code: found-short-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
 
 
 * ⚠ **WARN** The following glyphs have jaggy segments:
-	* aogonek (U+0105): B<<390.5,-142.5>-<438.0,-62.0>-<532.0,-2.0>>/B<<532.0,-2.0>-<483.0,-19.0>-<429.0,-19.0>> = 13.416360286287913
-	* aogonek (U+0105): B<<619.0,45.0>-<617.0,44.0>-<615.0,43.0>>/L<<615.0,43.0>--<620.0,45.0>> = 4.763641690726143
-	* uni1EA2 (U+1EA2): B<<294.0,2008.0>-<295.0,2008.0>-<300.0,2007.0>>/B<<300.0,2007.0>-<298.0,2007.0>-<298.0,2007.5>> = 11.309932474020195
-	* uni1EA2 (U+1EA2): B<<392.0,1697.0>-<389.0,1696.0>-<385.0,1696.0>>/L<<385.0,1696.0>--<392.0,1697.0>> = 8.13010235415596
-	* uni1EA8 (U+1EA8): B<<294.0,2435.0>-<295.0,2435.0>-<300.0,2434.0>>/B<<300.0,2434.0>-<298.0,2434.0>-<298.0,2434.5>> = 11.309932474020195
-	* uni1EA8 (U+1EA8): B<<392.0,2124.0>-<389.0,2123.0>-<385.0,2123.0>>/L<<385.0,2123.0>--<392.0,2124.0>> = 8.13010235415596
-	* uni1EB2 (U+1EB2): B<<294.0,2404.0>-<295.0,2404.0>-<300.0,2403.0>>/B<<300.0,2403.0>-<298.0,2403.0>-<298.0,2403.5>> = 11.309932474020195
-	* uni1EB2 (U+1EB2): B<<392.0,2093.0>-<389.0,2092.0>-<385.0,2092.0>>/L<<385.0,2092.0>--<392.0,2093.0>> = 8.13010235415596
-	* uni1EBA (U+1EBA): B<<249.0,2008.0>-<250.0,2008.0>-<255.0,2007.0>>/B<<255.0,2007.0>-<253.0,2007.0>-<253.0,2007.5>> = 11.309932474020195
-	* uni1EBA (U+1EBA): B<<347.0,1697.0>-<344.0,1696.0>-<340.0,1696.0>>/L<<340.0,1696.0>--<347.0,1697.0>> = 8.13010235415596 and 16 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
+	* aogonek (U+0105): B<<390.5,-142.5>-<438.0,-62.0>-<532.0,-2.0>>/B<<532.0,-2.0>-<483.0,-19.0>-<429.0,-19.0>> = 13.416360286287913 and aogonek (U+0105): B<<619.0,45.0>-<617.0,44.0>-<615.0,43.0>>/L<<615.0,43.0>--<620.0,45.0>> = 4.763641690726143 [code: found-jaggy-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
 
 
@@ -95,8 +113,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
  * Emacron (U+0112): L<<679.0,1859.0>--<680.0,1701.0>>
  * Eogonek (U+0118): L<<709.0,-365.0>--<708.0,-506.0>>
  * F (U+0046): L<<178.0,1594.0>--<733.0,1593.0>>
- * Imacron (U+012A): L<<21.0,1701.0>--<22.0,1859.0>>
- * Imacron (U+012A): L<<504.0,1859.0>--<505.0,1701.0>>
+ * Imacron (U+012A): L<<26.0,1701.0>--<27.0,1859.0>>
+ * Imacron (U+012A): L<<509.0,1859.0>--<510.0,1701.0>>
  * Iogonek (U+012E): L<<372.0,-365.0>--<371.0,-506.0>> and 124 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
@@ -105,8 +123,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 0 | 8 | 105 | 8 | 104 | 0 |
-| 0% | 0% | 4% | 47% | 4% | 46% | 0% |
+| 0 | 2 | 9 | 104 | 8 | 102 | 0 |
+| 0% | 1% | 4% | 46% | 4% | 45% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
