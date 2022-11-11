@@ -2,7 +2,7 @@
 
 Fontbakery version: 0.8.8
 
-<details><summary><b>[11] Voltaire-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version number has increased since previous release on Google Fonts? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/version_bump">com.google.fonts/check/version_bump</a>)</summary><div>
+<details><summary><b>[10] Voltaire-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version number has increased since previous release on Google Fonts? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/version_bump">com.google.fonts/check/version_bump</a>)</summary><div>
 
 
 * 🔥 **FAIL** Version number 1.0070037841796875 is equal to version on Google Fonts GitHub repo.
@@ -14,16 +14,16 @@ Fontbakery version: 0.8.8
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* Ecircumflex
-	* ntilde
-	* W
-	* acircumflex
-	* currency
+	* S
 	* k
-	* R
-	* odieresis
-	* J
-	* r and 110 more.
+	* Ugrave
+	* f
+	* r
+	* M
+	* divide
+	* Edieresis
+	* aacute
+	* hbar and 110 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -43,17 +43,19 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- six.lf
-	- five.lf
-	- one.lf
-	- seven.lf
-	- two.lf
 	- three.lf
-	- zero.lf
-	- eight.lf
 	- .null
-	- nine.lf 
-	- And four.lf
+	- eight.lf
+	- nine.lf
+	- five.lf
+	- zero.lf
+	- two.lf
+	- four.lf
+	- six.lf
+	- zero.tf.zerp 
+	- And 3 more.
+
+Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -66,14 +68,14 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
 	- Glyph name: Eth	Contours detected: 3	Expected: 2
 	- Glyph name: oslash	Contours detected: 2	Expected: 3
-	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 	- Glyph name: dcroat	Contours detected: 3	Expected: 2
+	- Glyph name: hbar	Contours detected: 2	Expected: 1
 	- Glyph name: Lslash	Contours detected: 2	Expected: 1
-	- Glyph name: tcaron	Contours detected: 1	Expected: 2
+	- Glyph name: lslash	Contours detected: 2	Expected: 1
 	- Glyph name: Tbar	Contours detected: 2	Expected: 1
-	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
-	- Glyph name: ohorn	Contours detected: 3	Expected: 2 
-	- And 50 more.
+	- Glyph name: tbar	Contours detected: 2	Expected: 1
+	- Glyph name: Uogonek	Contours detected: 2	Expected: 1 
+	- And 58 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -94,14 +96,9 @@ Use -F or --full-lists to disable shortening of long lists.
 	* M (U+004D) contains a short segment L<<628.0,430.0>--<628.0,431.0>>
 	* N (U+004E) contains a short segment L<<158.0,1612.0>--<183.0,1612.0>>
 	* N (U+004E) contains a short segment L<<965.0,0.0>--<941.0,0.0>>
-	* V (U+0056) contains a short segment L<<491.0,-30.0>--<463.0,-30.0>> and 50 more.
+	* V (U+0056) contains a short segment L<<491.0,-30.0>--<463.0,-30.0>> and 53 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-short-segments]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have jaggy segments:
-	* aogonek (U+0105): B<<390.5,-142.5>-<438.0,-62.0>-<532.0,-2.0>>/B<<532.0,-2.0>-<483.0,-19.0>-<429.0,-19.0>> = 13.416360286287913 and aogonek (U+0105): B<<619.0,45.0>-<617.0,44.0>-<615.0,43.0>>/L<<615.0,43.0>--<620.0,45.0>> = 4.763641690726143 [code: found-jaggy-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
 
 
@@ -109,13 +106,13 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
  * Amacron (U+0100): L<<235.0,1701.0>--<236.0,1859.0>>
  * Amacron (U+0100): L<<718.0,1859.0>--<719.0,1701.0>>
  * Aogonek (U+0104): L<<951.0,-365.0>--<950.0,-506.0>>
+ * Bmacronbelow (U+1E06): L<<226.0,-287.0>--<227.0,-129.0>>
+ * Bmacronbelow (U+1E06): L<<709.0,-129.0>--<710.0,-287.0>>
+ * Dmacronbelow (U+1E0E): L<<308.0,-457.0>--<309.0,-299.0>>
+ * Dmacronbelow (U+1E0E): L<<791.0,-299.0>--<792.0,-457.0>>
  * Emacron (U+0112): L<<190.0,1701.0>--<191.0,1859.0>>
  * Emacron (U+0112): L<<673.0,1859.0>--<674.0,1701.0>>
- * Eogonek (U+0118): L<<706.0,-365.0>--<705.0,-506.0>>
- * F (U+0046): L<<178.0,1594.0>--<733.0,1593.0>>
- * Imacron (U+012A): L<<11.0,1701.0>--<12.0,1859.0>>
- * Imacron (U+012A): L<<494.0,1859.0>--<495.0,1701.0>>
- * Iogonek (U+012E): L<<372.0,-365.0>--<371.0,-506.0>> and 124 more.
+ * Eogonek (U+0118): L<<706.0,-365.0>--<705.0,-506.0>> and 145 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
 </div></details><br></div></details>
@@ -123,8 +120,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 2 | 9 | 104 | 8 | 102 | 0 |
-| 0% | 1% | 4% | 46% | 4% | 45% | 0% |
+| 0 | 2 | 8 | 104 | 8 | 103 | 0 |
+| 0% | 1% | 4% | 46% | 4% | 46% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
