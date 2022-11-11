@@ -14,16 +14,16 @@ Fontbakery version: 0.8.8
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* braceright
-	* atilde
-	* two
-	* nine
-	* H
-	* Ecircumflex
-	* V
-	* hbar
 	* m
-	* zero and 111 more.
+	* adieresis
+	* h
+	* Ecircumflex
+	* Y
+	* acircumflex
+	* ampersand
+	* r
+	* oacute
+	* Lslash and 111 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -43,16 +43,16 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- seven.lf
-	- newGlyph
 	- zero.lf
-	- four.lf
-	- two.lf
-	- five.lf
+	- nine.lf
 	- .null
 	- eight.lf
-	- six.lf
-	- one.lf 
+	- three.lf
+	- two.lf
+	- one.lf
+	- five.lf
+	- newGlyph
+	- seven.lf 
 	- And 3 more.
 
 Use -F or --full-lists to disable shortening of long lists.
