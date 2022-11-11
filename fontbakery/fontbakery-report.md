@@ -14,16 +14,16 @@ Fontbakery version: 0.8.8
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* Ucircumflex
-	* o
-	* atilde
-	* threequarters
-	* ugrave
-	* section
-	* Ograve
-	* R
-	* q
-	* udieresis and 110 more.
+	* currency
+	* zero
+	* Z
+	* Udieresis
+	* eight
+	* Yacute
+	* copyright
+	* u
+	* germandbls
+	* egrave and 111 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -43,16 +43,16 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- two.lf
-	- three.lf
-	- eight.lf
 	- zero.lf
-	- nine.lf
-	- four.lf
-	- six.lf
-	- one.lf
+	- three.lf
 	- five.lf
-	- seven.lf 
+	- .null
+	- nine.lf
+	- six.lf
+	- four.lf
+	- seven.lf
+	- zero.tf.zerp
+	- newGlyph 
 	- And 3 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -65,7 +65,6 @@ Use -F or --full-lists to disable shortening of long lists.
 
 The following glyphs do not have the recommended number of contours:
 
-	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
 	- Glyph name: Eth	Contours detected: 3	Expected: 2
 	- Glyph name: oslash	Contours detected: 2	Expected: 3
 	- Glyph name: dcroat	Contours detected: 3	Expected: 2
@@ -74,8 +73,9 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: lslash	Contours detected: 2	Expected: 1
 	- Glyph name: Tbar	Contours detected: 2	Expected: 1
 	- Glyph name: tbar	Contours detected: 2	Expected: 1
-	- Glyph name: Uogonek	Contours detected: 2	Expected: 1 
-	- And 58 more.
+	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
+	- Glyph name: uni0180	Contours detected: 3	Expected: 2 
+	- And 56 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
