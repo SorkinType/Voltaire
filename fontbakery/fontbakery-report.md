@@ -14,16 +14,16 @@ Fontbakery version: 0.8.8
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* currency
-	* zero
-	* Z
-	* Udieresis
-	* eight
-	* Yacute
-	* copyright
-	* u
+	* D
+	* m
+	* Ugrave
+	* g
 	* germandbls
-	* egrave and 111 more.
+	* a
+	* rcaron
+	* percent
+	* t
+	* e and 111 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -43,16 +43,16 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
+	- six.lf
+	- zero.tf.zerp
+	- four.lf
+	- .null
+	- eight.lf
 	- zero.lf
 	- three.lf
 	- five.lf
-	- .null
 	- nine.lf
-	- six.lf
-	- four.lf
-	- seven.lf
-	- zero.tf.zerp
-	- newGlyph 
+	- seven.lf 
 	- And 3 more.
 
 Use -F or --full-lists to disable shortening of long lists.
