@@ -14,16 +14,16 @@ Fontbakery version: 0.8.8
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* S
-	* k
-	* Ugrave
-	* f
-	* r
-	* M
-	* divide
-	* Edieresis
-	* aacute
-	* hbar and 110 more.
+	* Ucircumflex
+	* o
+	* atilde
+	* threequarters
+	* ugrave
+	* section
+	* Ograve
+	* R
+	* q
+	* udieresis and 110 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -43,16 +43,16 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- three.lf
-	- .null
-	- eight.lf
-	- nine.lf
-	- five.lf
-	- zero.lf
 	- two.lf
+	- three.lf
+	- eight.lf
+	- zero.lf
+	- nine.lf
 	- four.lf
 	- six.lf
-	- zero.tf.zerp 
+	- one.lf
+	- five.lf
+	- seven.lf 
 	- And 3 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -89,13 +89,13 @@ Use -F or --full-lists to disable shortening of long lists.
 * ⚠ **WARN** The following glyphs have segments which seem very short:
 	* five (U+0035) contains a short segment L<<185.0,728.0>--<183.0,726.0>>
 	* G (U+0047) contains a short segment L<<869.0,643.0>--<868.0,643.0>>
-	* M (U+004D) contains a short segment L<<158.0,1612.0>--<201.0,1612.0>>
-	* M (U+004D) contains a short segment L<<1055.0,1612.0>--<1098.0,1612.0>>
-	* M (U+004D) contains a short segment L<<629.0,431.0>--<629.0,429.0>>
-	* M (U+004D) contains a short segment L<<629.0,429.0>--<628.0,430.0>>
-	* M (U+004D) contains a short segment L<<628.0,430.0>--<628.0,431.0>>
-	* N (U+004E) contains a short segment L<<158.0,1612.0>--<183.0,1612.0>>
-	* N (U+004E) contains a short segment L<<965.0,0.0>--<941.0,0.0>>
+	* M (U+004D) contains a short segment L<<156.0,1612.0>--<199.0,1612.0>>
+	* M (U+004D) contains a short segment L<<1053.0,1612.0>--<1096.0,1612.0>>
+	* M (U+004D) contains a short segment L<<627.0,431.0>--<627.0,429.0>>
+	* M (U+004D) contains a short segment L<<627.0,429.0>--<626.0,430.0>>
+	* M (U+004D) contains a short segment L<<626.0,430.0>--<626.0,431.0>>
+	* N (U+004E) contains a short segment L<<156.0,1612.0>--<181.0,1612.0>>
+	* N (U+004E) contains a short segment L<<963.0,0.0>--<939.0,0.0>>
 	* V (U+0056) contains a short segment L<<491.0,-30.0>--<463.0,-30.0>> and 53 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-short-segments]
@@ -106,13 +106,13 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
  * Amacron (U+0100): L<<235.0,1701.0>--<236.0,1859.0>>
  * Amacron (U+0100): L<<718.0,1859.0>--<719.0,1701.0>>
  * Aogonek (U+0104): L<<951.0,-365.0>--<950.0,-506.0>>
- * Bmacronbelow (U+1E06): L<<226.0,-287.0>--<227.0,-129.0>>
- * Bmacronbelow (U+1E06): L<<709.0,-129.0>--<710.0,-287.0>>
- * Dmacronbelow (U+1E0E): L<<308.0,-457.0>--<309.0,-299.0>>
- * Dmacronbelow (U+1E0E): L<<791.0,-299.0>--<792.0,-457.0>>
- * Emacron (U+0112): L<<190.0,1701.0>--<191.0,1859.0>>
- * Emacron (U+0112): L<<673.0,1859.0>--<674.0,1701.0>>
- * Eogonek (U+0118): L<<706.0,-365.0>--<705.0,-506.0>> and 145 more.
+ * Bmacronbelow (U+1E06): L<<204.0,-287.0>--<205.0,-129.0>>
+ * Bmacronbelow (U+1E06): L<<687.0,-129.0>--<688.0,-287.0>>
+ * Dmacronbelow (U+1E0E): L<<286.0,-457.0>--<287.0,-299.0>>
+ * Dmacronbelow (U+1E0E): L<<769.0,-299.0>--<770.0,-457.0>>
+ * Emacron (U+0112): L<<188.0,1701.0>--<189.0,1859.0>>
+ * Emacron (U+0112): L<<671.0,1859.0>--<672.0,1701.0>>
+ * Eogonek (U+0118): L<<704.0,-365.0>--<703.0,-506.0>> and 145 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
 </div></details><br></div></details>
