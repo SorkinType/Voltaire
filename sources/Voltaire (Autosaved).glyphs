@@ -9830,6 +9830,7 @@ width = 1254;
 }
 );
 unicode = 7742;
+changeCount = 1;
 },
 {
 color = 3;
@@ -9909,6 +9910,7 @@ width = 1254;
 }
 );
 unicode = 7744;
+changeCount = 1;
 },
 {
 color = 3;
