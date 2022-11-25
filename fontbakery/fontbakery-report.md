@@ -2,28 +2,28 @@
 
 Fontbakery version: 0.8.8
 
-<details><summary><b>[10] Voltaire-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version number has increased since previous release on Google Fonts? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/version_bump">com.google.fonts/check/version_bump</a>)</summary><div>
+<details><summary><b>[9] Voltaire-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version number has increased since previous release on Google Fonts? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/version_bump">com.google.fonts/check/version_bump</a>)</summary><div>
 
 
 * 🔥 **FAIL** Version number 1.0070037841796875 is equal to version on Google Fonts GitHub repo.
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 673, but got 570 instead. [code: descent]
+* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 580, but got 570 instead. [code: descent]
 </div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* m
-	* adieresis
-	* h
-	* Ecircumflex
-	* Y
+	* odieresis
+	* O
+	* f
+	* aacute
 	* acircumflex
-	* ampersand
-	* r
-	* oacute
-	* Lslash and 111 more.
+	* nacute
+	* registered
+	* Odieresis
+	* ccedilla
+	* copyright and 107 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -43,17 +43,17 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- zero.lf
-	- nine.lf
-	- .null
+	- uni03040300
 	- eight.lf
-	- three.lf
-	- two.lf
+	- four.lf
 	- one.lf
-	- five.lf
-	- newGlyph
-	- seven.lf 
-	- And 3 more.
+	- uni0145.loclMAH
+	- zero.osf.zero
+	- .null
+	- eight.osf
+	- six.lf
+	- uni006A0301 
+	- And 24 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
@@ -75,7 +75,7 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: tbar	Contours detected: 2	Expected: 1
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 	- Glyph name: uni0180	Contours detected: 3	Expected: 2 
-	- And 56 more.
+	- And 60 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -83,36 +83,20 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** No dotted circle glyph present [code: missing-dotted-circle]
-</div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have segments which seem very short:
-	* five (U+0035) contains a short segment L<<185.0,728.0>--<183.0,726.0>>
-	* G (U+0047) contains a short segment L<<869.0,643.0>--<868.0,643.0>>
-	* M (U+004D) contains a short segment L<<156.0,1612.0>--<199.0,1612.0>>
-	* M (U+004D) contains a short segment L<<1053.0,1612.0>--<1096.0,1612.0>>
-	* M (U+004D) contains a short segment L<<627.0,431.0>--<627.0,429.0>>
-	* M (U+004D) contains a short segment L<<627.0,429.0>--<626.0,430.0>>
-	* M (U+004D) contains a short segment L<<626.0,430.0>--<626.0,431.0>>
-	* N (U+004E) contains a short segment L<<156.0,1612.0>--<181.0,1612.0>>
-	* N (U+004E) contains a short segment L<<963.0,0.0>--<939.0,0.0>>
-	* V (U+0056) contains a short segment L<<491.0,-30.0>--<463.0,-30.0>> and 53 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-short-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
 
 
 * ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
- * Amacron (U+0100): L<<235.0,1701.0>--<236.0,1859.0>>
- * Amacron (U+0100): L<<718.0,1859.0>--<719.0,1701.0>>
+ * Amacron (U+0100): L<<235.0,1721.0>--<236.0,1879.0>>
+ * Amacron (U+0100): L<<718.0,1879.0>--<719.0,1721.0>>
  * Aogonek (U+0104): L<<951.0,-365.0>--<950.0,-506.0>>
  * Bmacronbelow (U+1E06): L<<204.0,-287.0>--<205.0,-129.0>>
  * Bmacronbelow (U+1E06): L<<687.0,-129.0>--<688.0,-287.0>>
- * Dmacronbelow (U+1E0E): L<<286.0,-457.0>--<287.0,-299.0>>
- * Dmacronbelow (U+1E0E): L<<769.0,-299.0>--<770.0,-457.0>>
- * Emacron (U+0112): L<<188.0,1701.0>--<189.0,1859.0>>
- * Emacron (U+0112): L<<671.0,1859.0>--<672.0,1701.0>>
- * Eogonek (U+0118): L<<704.0,-365.0>--<703.0,-506.0>> and 145 more.
+ * Dmacronbelow (U+1E0E): L<<246.0,-287.0>--<247.0,-129.0>>
+ * Dmacronbelow (U+1E0E): L<<729.0,-129.0>--<730.0,-287.0>>
+ * Emacron (U+0112): L<<188.0,1721.0>--<189.0,1879.0>>
+ * Emacron (U+0112): L<<671.0,1879.0>--<672.0,1721.0>>
+ * Eogonek (U+0118): L<<704.0,-365.0>--<703.0,-506.0>> and 161 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
 </div></details><br></div></details>
@@ -120,8 +104,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 2 | 8 | 104 | 8 | 103 | 0 |
-| 0% | 1% | 4% | 46% | 4% | 46% | 0% |
+| 0 | 2 | 7 | 104 | 8 | 104 | 0 |
+| 0% | 1% | 3% | 46% | 4% | 46% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
