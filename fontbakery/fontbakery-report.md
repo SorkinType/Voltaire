@@ -14,16 +14,16 @@ Fontbakery version: 0.8.8
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* odieresis
-	* O
-	* f
-	* aacute
-	* acircumflex
-	* nacute
-	* registered
-	* Odieresis
-	* ccedilla
-	* copyright and 107 more.
+	* Oslash
+	* paragraph
+	* onequarter
+	* oe
+	* J
+	* T
+	* e
+	* section
+	* AE
+	* ecircumflex and 107 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -43,16 +43,16 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni03040300
-	- eight.lf
-	- four.lf
 	- one.lf
-	- uni0145.loclMAH
+	- six.osf
+	- uni03040300
 	- zero.osf.zero
-	- .null
-	- eight.osf
-	- six.lf
-	- uni006A0301 
+	- nine.lf
+	- four.lf
+	- uni0146.loclMAH
+	- uni004A0301
+	- one.osf
+	- two.osf 
 	- And 24 more.
 
 Use -F or --full-lists to disable shortening of long lists.
