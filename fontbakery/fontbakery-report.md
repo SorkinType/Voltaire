@@ -14,16 +14,16 @@ Fontbakery version: 0.8.8
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* Oslash
-	* paragraph
-	* onequarter
-	* oe
-	* J
-	* T
-	* e
-	* section
-	* AE
-	* ecircumflex and 107 more.
+	* divide
+	* ampersand
+	* d
+	* n
+	* odieresis
+	* q
+	* percent
+	* Igrave
+	* Z
+	* o and 107 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -43,19 +43,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- one.lf
-	- six.osf
-	- uni03040300
-	- zero.osf.zero
-	- nine.lf
-	- four.lf
-	- uni0146.loclMAH
-	- uni004A0301
-	- one.osf
-	- two.osf 
-	- And 24 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- newGlyph
+	- zero.tf.zerp 
+	- And .null
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -75,7 +65,7 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: tbar	Contours detected: 2	Expected: 1
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 	- Glyph name: uni0180	Contours detected: 3	Expected: 2 
-	- And 60 more.
+	- And 62 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -96,7 +86,7 @@ Use -F or --full-lists to disable shortening of long lists.
  * Dmacronbelow (U+1E0E): L<<729.0,-129.0>--<730.0,-287.0>>
  * Emacron (U+0112): L<<188.0,1721.0>--<189.0,1879.0>>
  * Emacron (U+0112): L<<671.0,1879.0>--<672.0,1721.0>>
- * Eogonek (U+0118): L<<704.0,-365.0>--<703.0,-506.0>> and 161 more.
+ * Eng (U+014A): L<<347.0,1299.0>--<346.0,0.0>> and 163 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
 </div></details><br></div></details>
