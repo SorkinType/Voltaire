@@ -44,6 +44,13 @@ When you update your font (new version or new release), please report all notabl
 **14 October 2022. Version 1.007**
 - Glyphset expanded (from 231 to 711 glyphs)
 
+**27 Nov 2022. Version 1.008**
+- Glyphset expanded (from 711 to 831 glyphs)
+- Revised Kern-on kerning
+- Fixed anchors and diacritic issues
+- Added old style numbers and arrows
+- Now using Glyphs 3 format source
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
