@@ -2,28 +2,20 @@
 
 Fontbakery version: 0.8.8
 
-<details><summary><b>[9] Voltaire-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version number has increased since previous release on Google Fonts? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/version_bump">com.google.fonts/check/version_bump</a>)</summary><div>
-
-
-* 🔥 **FAIL** Version number 1.0070037841796875 is equal to version on Google Fonts GitHub repo.
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 580, but got 570 instead. [code: descent]
-</div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
+<details><summary><b>[7] Voltaire-Regular.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* k
-	* logicalnot
-	* Udieresis
-	* e
-	* ccedilla
-	* E
-	* two
-	* acircumflex
-	* oacute
-	* oslash and 106 more.
+	* itilde
+	* .notdef
+	* J
+	* d
+	* O
+	* w
+	* L
+	* Atilde
+	* braceleft
+	* threequarters and 106 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -43,8 +35,8 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- .null
-	- zero.tf.zerp 
+	- zero.tf.zero
+	- .null 
 	- And newGlyph
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
@@ -56,7 +48,6 @@ Use -F or --full-lists to disable shortening of long lists.
 The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: Eth	Contours detected: 3	Expected: 2
-	- Glyph name: oslash	Contours detected: 2	Expected: 3
 	- Glyph name: dcroat	Contours detected: 3	Expected: 2
 	- Glyph name: hbar	Contours detected: 2	Expected: 1
 	- Glyph name: Lslash	Contours detected: 2	Expected: 1
@@ -64,8 +55,9 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: Tbar	Contours detected: 2	Expected: 1
 	- Glyph name: tbar	Contours detected: 2	Expected: 1
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
-	- Glyph name: uni0180	Contours detected: 3	Expected: 2 
-	- And 62 more.
+	- Glyph name: uni0180	Contours detected: 3	Expected: 2
+	- Glyph name: uni019A	Contours detected: 2	Expected: 1 
+	- And 58 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -94,8 +86,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 2 | 7 | 104 | 8 | 104 | 0 |
-| 0% | 1% | 3% | 46% | 4% | 46% | 0% |
+| 0 | 0 | 7 | 104 | 8 | 106 | 0 |
+| 0% | 0% | 3% | 46% | 4% | 47% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
