@@ -6,16 +6,16 @@ Fontbakery version: 0.8.8
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* sterling
-	* ecircumflex
-	* S
-	* atilde
-	* divide
-	* V
+	* logicalnot
+	* ucircumflex
+	* Z
 	* ampersand
-	* G
-	* oe
-	* one and 106 more.
+	* atilde
+	* six
+	* nacute
+	* tilde
+	* Ntilde
+	* percent and 106 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -35,9 +35,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- .null
-	- zero.tf.zero 
-	- And newGlyph
+	- zero.tf.zero
+	- newGlyph 
+	- And .null
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -72,13 +72,13 @@ Use -F or --full-lists to disable shortening of long lists.
  * Amacron (U+0100): L<<235.0,1721.0>--<236.0,1879.0>>
  * Amacron (U+0100): L<<718.0,1879.0>--<719.0,1721.0>>
  * Aogonek (U+0104): L<<951.0,-365.0>--<950.0,-506.0>>
- * Bmacronbelow (U+1E06): L<<204.0,-287.0>--<205.0,-129.0>>
- * Bmacronbelow (U+1E06): L<<687.0,-129.0>--<688.0,-287.0>>
- * Dmacronbelow (U+1E0E): L<<246.0,-287.0>--<247.0,-129.0>>
- * Dmacronbelow (U+1E0E): L<<729.0,-129.0>--<730.0,-287.0>>
- * Emacron (U+0112): L<<188.0,1721.0>--<189.0,1879.0>>
- * Emacron (U+0112): L<<671.0,1879.0>--<672.0,1721.0>>
- * Eng (U+014A): L<<347.0,1299.0>--<346.0,0.0>> and 163 more.
+ * Bmacronbelow (U+1E06): L<<194.0,-287.0>--<195.0,-129.0>>
+ * Bmacronbelow (U+1E06): L<<677.0,-129.0>--<678.0,-287.0>>
+ * Dmacronbelow (U+1E0E): L<<236.0,-287.0>--<237.0,-129.0>>
+ * Dmacronbelow (U+1E0E): L<<719.0,-129.0>--<720.0,-287.0>>
+ * Emacron (U+0112): L<<178.0,1721.0>--<179.0,1879.0>>
+ * Emacron (U+0112): L<<661.0,1879.0>--<662.0,1721.0>>
+ * Eng (U+014A): L<<337.0,1299.0>--<336.0,0.0>> and 163 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
 </div></details><br></div></details>
