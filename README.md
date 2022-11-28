@@ -20,7 +20,9 @@ Voltaire is a low-contrast condensed semi-geometric style sans-serif. Voltaire i
 
 ## About
 
-Description of you and/or organisation goes here.
+Yvonne Schüttler designed Voltaire.
+
+Eben Sorkin from Sorkin Type Co. art directed, kerned and added languages to Voltaire. 
 
 ## Building
 
