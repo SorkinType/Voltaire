@@ -2,20 +2,20 @@
 
 Fontbakery version: 0.8.8
 
-<details><summary><b>[7] Voltaire-Regular.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
+<details><summary><b>[6] Voltaire-Regular.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* registered
-	* currency
-	* Eth
-	* P
-	* Ntilde
-	* threequarters
-	* g
-	* aring
-	* b
-	* four and 106 more.
+	* logicalnot
+	* zero
+	* d
+	* Q
+	* ograve
+	* lslash
+	* six
+	* R
+	* q
+	* Eth and 106 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -35,9 +35,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- newGlyph
+	- .null
 	- zero.tf.zero 
-	- And .null
+	- And newGlyph
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -65,29 +65,13 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** No dotted circle glyph present [code: missing-dotted-circle]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
- * Amacron (U+0100): L<<235.0,1721.0>--<236.0,1879.0>>
- * Amacron (U+0100): L<<718.0,1879.0>--<719.0,1721.0>>
- * Aogonek (U+0104): L<<951.0,-365.0>--<950.0,-506.0>>
- * Bmacronbelow (U+1E06): L<<194.0,-287.0>--<195.0,-129.0>>
- * Bmacronbelow (U+1E06): L<<677.0,-129.0>--<678.0,-287.0>>
- * Dmacronbelow (U+1E0E): L<<236.0,-287.0>--<237.0,-129.0>>
- * Dmacronbelow (U+1E0E): L<<719.0,-129.0>--<720.0,-287.0>>
- * Emacron (U+0112): L<<178.0,1721.0>--<179.0,1879.0>>
- * Emacron (U+0112): L<<661.0,1879.0>--<662.0,1721.0>>
- * Eng (U+014A): L<<337.0,1299.0>--<336.0,0.0>> and 163 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
 </div></details><br></div></details>
 ### Summary
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 0 | 7 | 104 | 8 | 106 | 0 |
-| 0% | 0% | 3% | 46% | 4% | 47% | 0% |
+| 0 | 0 | 6 | 104 | 8 | 107 | 0 |
+| 0% | 0% | 3% | 46% | 4% | 48% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
