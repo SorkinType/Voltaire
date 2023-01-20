@@ -1,13 +1,6 @@
 {
 .appVersion = "3148";
 .formatVersion = 3;
-DisplayStrings = (
-"ªa",
-"ª",
-W,
-"µ",
-"̧"
-);
 classes = (
 {
 automatic = 1;
