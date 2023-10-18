@@ -74,39 +74,23 @@
             <tr>
                 <td>0</td>
                 <td>0</td>
-                <td>6</td>
+                <td>5</td>
                 <td>104</td>
                 <td>8</td>
-                <td>107</td>
+                <td>108</td>
             </tr>
             <tr>
                 <td>0%</td>
                 <td>0%</td>
-                <td>4%</td>
-                <td>62%</td>
+                <td>3%</td>
+                <td>60%</td>
                 <td>5%</td>
-                <td>64%</td>
+                <td>63%</td>
             </tr>
             </table>
             
 <p><strong>Note:</strong> The following loglevels were omitted in this report: SKIP, INFO, PASS, DEBUG</p>
-<h2>&lt;Section: Google Fonts&gt; ⚠️⚠️⚠️⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️</h2>
-<h3>Glyphs are similiar to Google Fonts version?</h3>
-<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/production_glyphs_similarity&gt;</div>
-
-<details><summary>⚠️ <strong>fonts/ttf/Voltaire-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Following glyphs differ greatly from Google Fonts version:
-* onehalf
-* p
-* T
-* itilde
-* bracketright
-* AE
-* m
-* g
-* one
-* Oslash and 106 more.</p>
-<p>Use -F or --full-lists to disable shortening of long lists.</p>
-</span></li></ul></div></details>
+<h2>&lt;Section: Google Fonts&gt; ⚠️⚠️⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️</h2>
 <h3>Is there kerning info for non-ligated sequences?</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/kerning_for_non_ligated_sequences&gt;</div>
 
@@ -121,14 +105,14 @@
 
 <details><summary>⚠️ <strong>fonts/ttf/Voltaire-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font file does not have a 'meta' table. [code: lacks-meta-table]</p>
 </span></li></ul></div></details>
-<h2>&lt;Section: Universal&gt; ⚠️⚠️⚠️⏩⏩⏩⏩⏩ℹ️ℹ️</h2>
+<h2>&lt;Section: Universal&gt; ⚠️⚠️⏩⏩⏩⏩⏩ℹ️ℹ️</h2>
 <h3>Check font contains no unreachable glyphs</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/unreachable_glyphs&gt;</div>
 
 <details><summary>⚠️ <strong>fonts/ttf/Voltaire-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs could not be reached by codepoint or substitution rules:
-- zero.tf.zero
+- newGlyph
 - .null
-- And newGlyph
+- And zero.tf.zero
 [code: unreachable-glyphs]</p>
 </span></li></ul></div></details>
 <h3>Check if each glyph has the recommended amount of contours.</h3>
@@ -146,16 +130,24 @@
 - Glyph name: tbar	Contours detected: 2	Expected: 1
 - Glyph name: Uogonek	Contours detected: 2	Expected: 1
 - Glyph name: uni0180	Contours detected: 3	Expected: 2
-- Glyph name: uni019A	Contours detected: 2	Expected: 1 
-- And 58 more.
+- Glyph name: uni0198	Contours detected: 2	Expected: 1 
+- And 74 more.
 </code></pre>
 <p>Use -F or --full-lists to disable shortening of long lists.
 [code: contour-count]</p>
 </span></li></ul></div></details>
-<h3>Ensure dotted circle glyph is present and can attach marks.</h3>
-<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/dotted_circle&gt;</div>
+<h2>&lt;Section: Outline Correctness Checks&gt; ⚠️</h2>
+<h3>Do outlines contain any semi-vertical or semi-horizontal lines?</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/outline_semi_vertical&gt;</div>
 
-<details><summary>⚠️ <strong>fonts/ttf/Voltaire-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>No dotted circle glyph present [code: missing-dotted-circle]</p>
+<details><summary>⚠️ <strong>fonts/ttf/Voltaire-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have semi-vertical/semi-horizontal lines:</p>
+<ul>
+<li>uni018A (U+018A): L&lt;&lt;146.0,-19.0&gt;--&lt;155.0,1430.0&gt;&gt;</li>
+<li>uni0199 (U+0199): L&lt;&lt;285.0,1222.0&gt;--&lt;286.0,571.0&gt;&gt;</li>
+<li>uni0253 (U+0253): L&lt;&lt;107.0,-19.0&gt;--&lt;105.0,1211.0&gt;&gt;</li>
+<li>uni0253 (U+0253): L&lt;&lt;285.0,843.0&gt;--&lt;286.0,218.0&gt;&gt;</li>
+<li>uni0257 (U+0257): L&lt;&lt;654.0,220.0&gt;--&lt;653.0,842.0&gt;&gt; and uni0257 (U+0257): L&lt;&lt;833.0,1280.0&gt;--&lt;835.0,-19.0&gt;&gt; [code: found-semi-vertical]</li>
+</ul>
 </span></li></ul></div></details>
                     </body>
                 </html>
