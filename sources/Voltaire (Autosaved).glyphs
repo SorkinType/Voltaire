@@ -891,6 +891,7 @@ kernRight = KO_A;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.916;
 background = {
 anchors = (
 {
@@ -963,6 +964,7 @@ kernRight = KO_Aring;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.818;
 background = {
 anchors = (
 {
@@ -1045,6 +1047,7 @@ kernRight = KO_A;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.807;
 background = {
 anchors = (
 {
@@ -1136,6 +1139,7 @@ kernRight = KO_Aring;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.793;
 background = {
 anchors = (
 {
@@ -1239,6 +1243,7 @@ kernRight = KO_A;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.828;
 background = {
 anchors = (
 {
@@ -1330,6 +1335,7 @@ kernRight = KO_A;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.9;
 background = {
 anchors = (
 {
@@ -1431,6 +1437,7 @@ kernRight = KO_A;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.854;
 background = {
 anchors = (
 {
@@ -1538,6 +1545,7 @@ kernRight = KO_A;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.867;
 background = {
 anchors = (
 {
@@ -1612,6 +1620,7 @@ kernRight = KO_Adieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.838;
 background = {
 anchors = (
 {
@@ -1686,6 +1695,7 @@ kernRight = KO_Aring;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.833;
 background = {
 anchors = (
 {
@@ -1777,6 +1787,7 @@ kernRight = KO_Adieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.885;
 background = {
 anchors = (
 {
@@ -1872,6 +1883,7 @@ kernRight = KO_Aring;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.905;
 background = {
 anchors = (
 {
@@ -1955,6 +1967,7 @@ kernRight = KO_Aring;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.813;
 background = {
 anchors = (
 {
@@ -2048,6 +2061,7 @@ kernRight = KO_Aring;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.875;
 background = {
 anchors = (
 {
@@ -2145,6 +2159,7 @@ glyphname = Adblgrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.801;
 background = {
 anchors = (
 {
@@ -2226,6 +2241,7 @@ kernRight = KO_Adieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.826;
 background = {
 anchors = (
 {
@@ -2323,6 +2339,7 @@ kernRight = KO_Adieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.855;
 layerId = master01;
 shapes = (
 {
@@ -2349,6 +2366,7 @@ kernRight = KO_A;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.794;
 layerId = master01;
 shapes = (
 {
@@ -2371,6 +2389,7 @@ kernRight = KO_A;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.806;
 background = {
 anchors = (
 {
@@ -2449,6 +2468,7 @@ glyphname = Adotmacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.904;
 layerId = master01;
 shapes = (
 {
@@ -2475,6 +2495,7 @@ kernRight = KO_A;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.868;
 background = {
 anchors = (
 {
@@ -2547,6 +2568,7 @@ kernRight = KO_A;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.824;
 background = {
 anchors = (
 {
@@ -2627,6 +2649,7 @@ glyphname = Ainvertedbreve;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.901;
 background = {
 anchors = (
 {
@@ -2709,6 +2732,7 @@ kernRight = KO_Aring;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.874;
 background = {
 anchors = (
 {
@@ -2846,6 +2870,7 @@ kernRight = KO_Aring;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.877;
 background = {
 anchors = (
 {
@@ -2941,6 +2966,7 @@ glyphname = Aringbelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.864;
 layerId = master01;
 shapes = (
 {
@@ -2963,6 +2989,7 @@ kernRight = KO_Aring;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.874;
 background = {
 anchors = (
 {
@@ -3051,6 +3078,7 @@ kernRight = KO_V;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.91;
 layerId = master01;
 shapes = (
 {
@@ -3179,6 +3207,7 @@ kernRight = KO_E;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.864;
 background = {
 anchors = (
 {
@@ -3258,6 +3287,7 @@ kernRight = KO_E;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.912;
 layerId = master01;
 shapes = (
 {
@@ -3436,6 +3466,7 @@ kernRight = KO_B;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.863;
 background = {
 anchors = (
 {
@@ -3535,6 +3566,7 @@ glyphname = Bdotbelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.868;
 layerId = master01;
 shapes = (
 {
@@ -3557,6 +3589,7 @@ kernRight = KO_B;
 lastChange = "2023-10-18 20:08:41 +0000";
 layers = (
 {
+.lastUpdate = 719352521.234;
 anchors = (
 {
 name = bottom;
@@ -3642,6 +3675,7 @@ kernRight = KO_B;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.813;
 layerId = master01;
 shapes = (
 {
@@ -3792,6 +3826,7 @@ kernRight = KO_Cacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.857;
 background = {
 anchors = (
 {
@@ -3868,6 +3903,7 @@ kernRight = KO_Ccaron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.83;
 background = {
 anchors = (
 {
@@ -3946,6 +3982,7 @@ kernRight = KO_Ccedilla;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.897;
 background = {
 anchors = (
 {
@@ -4034,6 +4071,7 @@ unicode = 199;
 glyphname = Ccedillaacute;
 layers = (
 {
+.lastUpdate = 719353803.785;
 layerId = master01;
 shapes = (
 {
@@ -4060,6 +4098,7 @@ kernRight = KO_Ccircumflex;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.852;
 background = {
 anchors = (
 {
@@ -4138,6 +4177,7 @@ kernRight = KO_Cdotaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.84;
 background = {
 anchors = (
 {
@@ -4220,6 +4260,7 @@ glyphname = "Chi-latin";
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.883;
 layerId = master01;
 shapes = (
 {
@@ -4351,6 +4392,7 @@ glyphname = DZ;
 lastChange = "2023-10-18 20:36:39 +0000";
 layers = (
 {
+.lastUpdate = 719354199.088;
 layerId = master01;
 shapes = (
 {
@@ -4365,12 +4407,14 @@ width = 1719;
 }
 );
 unicode = 497;
+changeCount = 1;
 },
 {
 glyphname = DZcaron;
 lastChange = "2023-10-18 20:36:39 +0000";
 layers = (
 {
+.lastUpdate = 719354199.089;
 layerId = master01;
 shapes = (
 {
@@ -4389,6 +4433,7 @@ width = 1719;
 }
 );
 unicode = 452;
+changeCount = 1;
 },
 {
 glyphname = Dcaron;
@@ -4397,6 +4442,7 @@ kernRight = KO_D;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.799;
 background = {
 anchors = (
 {
@@ -4474,6 +4520,7 @@ kernRight = KO_D;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.806;
 layerId = master01;
 shapes = (
 {
@@ -4496,6 +4543,7 @@ kernRight = KO_D;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.802;
 layerId = master01;
 shapes = (
 {
@@ -4518,6 +4566,7 @@ kernRight = KO_Dcroat;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.801;
 background = {
 anchors = (
 {
@@ -4599,6 +4648,7 @@ kernRight = KO_D;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.891;
 background = {
 anchors = (
 {
@@ -4682,6 +4732,7 @@ kernRight = KO_D;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.823;
 layerId = master01;
 shapes = (
 {
@@ -4704,6 +4755,7 @@ kernRight = KO_D;
 lastChange = "2023-10-18 20:08:10 +0000";
 layers = (
 {
+.lastUpdate = 719352490.809;
 anchors = (
 {
 name = bottom;
@@ -4776,6 +4828,7 @@ kernRight = KO_D;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.785;
 layerId = master01;
 shapes = (
 {
@@ -4796,6 +4849,7 @@ glyphname = Dz;
 lastChange = "2023-10-18 20:36:39 +0000";
 layers = (
 {
+.lastUpdate = 719354199.089;
 layerId = master01;
 shapes = (
 {
@@ -4810,12 +4864,14 @@ width = 1744;
 }
 );
 unicode = 498;
+changeCount = 1;
 },
 {
 glyphname = Dzcaron;
 lastChange = "2023-10-18 20:36:39 +0000";
 layers = (
 {
+.lastUpdate = 719354199.089;
 layerId = master01;
 shapes = (
 {
@@ -4830,6 +4886,7 @@ width = 1744;
 }
 );
 unicode = 453;
+changeCount = 1;
 },
 {
 glyphname = Eth;
@@ -4838,6 +4895,7 @@ kernRight = KO_D;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.821;
 background = {
 shapes = (
 {
@@ -4974,6 +5032,7 @@ kernRight = KO_E;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.786;
 background = {
 anchors = (
 {
@@ -5044,6 +5103,7 @@ kernRight = KO_E;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.889;
 background = {
 anchors = (
 {
@@ -5124,6 +5184,7 @@ kernRight = KO_E;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.787;
 background = {
 anchors = (
 {
@@ -5194,6 +5255,7 @@ glyphname = Ecedilla;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.849;
 layerId = master01;
 shapes = (
 {
@@ -5214,6 +5276,7 @@ glyphname = Ecedillabreve;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.881;
 layerId = master01;
 shapes = (
 {
@@ -5240,6 +5303,7 @@ kernRight = KO_Edieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.914;
 background = {
 anchors = (
 {
@@ -5312,6 +5376,7 @@ kernRight = KO_Edieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.809;
 background = {
 anchors = (
 {
@@ -5391,6 +5456,7 @@ glyphname = Ecircumflexbelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.862;
 layerId = master01;
 shapes = (
 {
@@ -5413,6 +5479,7 @@ kernRight = KO_Edieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.871;
 background = {
 anchors = (
 {
@@ -5506,6 +5573,7 @@ kernRight = KO_Edieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.844;
 background = {
 anchors = (
 {
@@ -5587,6 +5655,7 @@ kernRight = KO_Edieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.912;
 background = {
 anchors = (
 {
@@ -5678,6 +5747,7 @@ kernRight = KO_Edieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.895;
 background = {
 anchors = (
 {
@@ -5773,6 +5843,7 @@ glyphname = Edblgrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.9;
 background = {
 anchors = (
 {
@@ -5852,6 +5923,7 @@ kernRight = KO_Edieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.902;
 background = {
 anchors = (
 {
@@ -5947,6 +6019,7 @@ kernRight = KO_E;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.911;
 background = {
 anchors = (
 {
@@ -6025,6 +6098,7 @@ kernRight = KO_E;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.863;
 background = {
 anchors = (
 {
@@ -6103,6 +6177,7 @@ kernRight = KO_E;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.918;
 background = {
 anchors = (
 {
@@ -6173,6 +6248,7 @@ kernRight = KO_E;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.812;
 background = {
 anchors = (
 {
@@ -6253,6 +6329,7 @@ kernRight = KO_Einvertedbreve;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.905;
 background = {
 anchors = (
 {
@@ -6333,6 +6410,7 @@ kernRight = KO_Edieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.779;
 background = {
 anchors = (
 {
@@ -6403,6 +6481,7 @@ kernRight = KO_Edieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.869;
 layerId = master01;
 shapes = (
 {
@@ -6427,6 +6506,7 @@ glyphname = Emacrongrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.812;
 layerId = master01;
 shapes = (
 {
@@ -6633,6 +6713,7 @@ kernRight = KO_H;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.784;
 layerId = master01;
 shapes = (
 {
@@ -6654,6 +6735,7 @@ kernRight = KO_Esh;
 lastChange = "2023-10-18 20:25:12 +0000";
 layers = (
 {
+.lastUpdate = 719353504.303;
 layerId = master01;
 shapes = (
 {
@@ -6684,6 +6766,7 @@ kernRight = KO_E;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.894;
 background = {
 anchors = (
 {
@@ -6768,6 +6851,7 @@ glyphname = Etildebelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.906;
 layerId = master01;
 shapes = (
 {
@@ -6970,6 +7054,7 @@ kernRight = KO_F;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.819;
 background = {
 anchors = (
 {
@@ -7164,6 +7249,7 @@ kernRight = KO_G;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.825;
 background = {
 anchors = (
 {
@@ -7247,6 +7333,7 @@ kernRight = KO_G;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.842;
 background = {
 anchors = (
 {
@@ -7340,6 +7427,7 @@ kernRight = KO_G;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.841;
 background = {
 anchors = (
 {
@@ -7425,6 +7513,7 @@ kernRight = KO_G;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.787;
 background = {
 anchors = (
 {
@@ -7510,6 +7599,7 @@ kernRight = KO_G;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.817;
 background = {
 anchors = (
 {
@@ -7605,6 +7695,7 @@ kernRight = KO_G;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.784;
 background = {
 anchors = (
 {
@@ -7696,6 +7787,7 @@ kernRight = KO_G;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.92;
 background = {
 anchors = (
 {
@@ -7884,6 +7976,7 @@ kernRight = KO_Hbar;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.816;
 background = {
 anchors = (
 {
@@ -7954,6 +8047,7 @@ kernRight = KO_H;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.914;
 layerId = master01;
 shapes = (
 {
@@ -7976,6 +8070,7 @@ kernRight = KO_H;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.911;
 layerId = master01;
 shapes = (
 {
@@ -7998,6 +8093,7 @@ kernRight = KO_H;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.884;
 layerId = master01;
 shapes = (
 {
@@ -8021,6 +8117,7 @@ kernRight = KO_H;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.916;
 background = {
 anchors = (
 {
@@ -8091,6 +8188,7 @@ glyphname = Hdieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.895;
 layerId = master01;
 shapes = (
 {
@@ -8111,6 +8209,7 @@ glyphname = Hdotaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.855;
 layerId = master01;
 shapes = (
 {
@@ -8133,6 +8232,7 @@ kernRight = KO_H;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.814;
 background = {
 anchors = (
 {
@@ -8348,6 +8448,7 @@ kernRight = KO_Iacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.891;
 background = {
 anchors = (
 {
@@ -8402,6 +8503,7 @@ kernRight = KO_Ibreve;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.843;
 background = {
 anchors = (
 {
@@ -8466,6 +8568,7 @@ kernRight = KO_Ibreve;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.88;
 layerId = master01;
 shapes = (
 {
@@ -8488,6 +8591,7 @@ kernRight = KO_Icircumflex;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.786;
 background = {
 anchors = (
 {
@@ -8542,6 +8646,7 @@ glyphname = Idblgrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.779;
 background = {
 anchors = (
 {
@@ -8605,6 +8710,7 @@ kernRight = KO_Idieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.806;
 background = {
 anchors = (
 {
@@ -8682,6 +8788,7 @@ glyphname = Idieresisacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.907;
 layerId = master01;
 shapes = (
 {
@@ -8708,6 +8815,7 @@ kernRight = KO_M;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.907;
 background = {
 anchors = (
 {
@@ -8770,6 +8878,7 @@ kernRight = KO_M;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.876;
 background = {
 anchors = (
 {
@@ -8832,6 +8941,7 @@ kernRight = KO_Igrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.832;
 background = {
 anchors = (
 {
@@ -8886,6 +8996,7 @@ kernRight = KO_Ihookabove;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.899;
 background = {
 anchors = (
 {
@@ -8948,6 +9059,7 @@ glyphname = Iinvertedbreve;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.788;
 background = {
 anchors = (
 {
@@ -9012,6 +9124,7 @@ kernRight = KO_Imacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.909;
 background = {
 anchors = (
 {
@@ -9135,6 +9248,7 @@ kernRight = KO_Itilde;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.856;
 background = {
 anchors = (
 {
@@ -9203,6 +9317,7 @@ glyphname = Itildebelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.793;
 layerId = master01;
 shapes = (
 {
@@ -9297,6 +9412,7 @@ kernRight = KO_Jacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.792;
 layerId = master01;
 shapes = (
 {
@@ -9318,6 +9434,7 @@ kernRight = KO_Jcircumflex;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.9;
 background = {
 anchors = (
 {
@@ -9494,6 +9611,7 @@ kernRight = KO_K;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.783;
 layerId = master01;
 shapes = (
 {
@@ -9516,6 +9634,7 @@ kernRight = KO_K;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.785;
 layerId = master01;
 shapes = (
 {
@@ -9538,6 +9657,7 @@ kernRight = KO_K;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.871;
 background = {
 anchors = (
 {
@@ -9622,6 +9742,7 @@ kernRight = KO_K;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.786;
 layerId = master01;
 shapes = (
 {
@@ -9644,6 +9765,7 @@ kernRight = KO_Khook;
 lastChange = "2023-10-18 20:10:39 +0000";
 layers = (
 {
+.lastUpdate = 719352639.781;
 anchors = (
 {
 name = bottom;
@@ -9695,6 +9817,7 @@ kernRight = KO_Kmacronbelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.838;
 layerId = master01;
 shapes = (
 {
@@ -9805,6 +9928,7 @@ kernRight = KO_Lacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.837;
 background = {
 anchors = (
 {
@@ -9869,6 +9993,7 @@ kernRight = KO_Lcaron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.839;
 background = {
 anchors = (
 {
@@ -9945,6 +10070,7 @@ kernRight = KO_Lcommaaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.811;
 layerId = master01;
 shapes = (
 {
@@ -9967,6 +10093,7 @@ kernRight = KO_Lcommaaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.781;
 background = {
 anchors = (
 {
@@ -10043,6 +10170,7 @@ kernRight = KO_Ldot;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.903;
 background = {
 anchors = (
 {
@@ -10118,6 +10246,7 @@ kernRight = KO_Lcommaaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.78;
 background = {
 anchors = (
 {
@@ -10190,6 +10319,7 @@ kernRight = KO_Ldotbelowmacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.834;
 layerId = master01;
 shapes = (
 {
@@ -10214,6 +10344,7 @@ glyphname = Lj;
 lastChange = "2023-10-18 20:36:39 +0000";
 layers = (
 {
+.lastUpdate = 719354199.093;
 layerId = master01;
 shapes = (
 {
@@ -10228,6 +10359,7 @@ width = 1254;
 }
 );
 unicode = 456;
+changeCount = 1;
 },
 {
 glyphname = Llinebelow;
@@ -10236,6 +10368,7 @@ kernRight = KO_Lcommaaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.854;
 background = {
 anchors = (
 {
@@ -10300,6 +10433,7 @@ kernRight = KO_Lslash;
 lastChange = "2023-10-18 20:30:22 +0000";
 layers = (
 {
+.lastUpdate = 719353803.948;
 background = {
 shapes = (
 {
@@ -10448,6 +10582,7 @@ kernRight = KO_M;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.899;
 layerId = master01;
 shapes = (
 {
@@ -10470,6 +10605,7 @@ kernRight = KO_M;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.809;
 background = {
 anchors = (
 {
@@ -10548,6 +10684,7 @@ kernRight = KO_M;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.851;
 background = {
 anchors = (
 {
@@ -10679,6 +10816,7 @@ glyphname = Mturned;
 lastChange = "2023-10-18 20:29:41 +0000";
 layers = (
 {
+.lastUpdate = 719353771.504;
 layerId = master01;
 shapes = (
 {
@@ -10829,6 +10967,7 @@ kernRight = KO_H;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.883;
 background = {
 anchors = (
 {
@@ -10893,6 +11032,7 @@ kernRight = KO_H;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.782;
 background = {
 anchors = (
 {
@@ -10959,6 +11099,7 @@ kernRight = KO_H;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.849;
 layerId = master01;
 shapes = (
 {
@@ -10981,6 +11122,7 @@ kernRight = KO_H;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.916;
 background = {
 anchors = (
 {
@@ -11057,6 +11199,7 @@ kernRight = KO_H;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.776;
 background = {
 anchors = (
 {
@@ -11129,6 +11272,7 @@ kernRight = KO_H;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.917;
 background = {
 anchors = (
 {
@@ -11201,6 +11345,7 @@ kernRight = KO_H;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.828;
 layerId = master01;
 shapes = (
 {
@@ -11344,6 +11489,7 @@ kernRight = KO_H;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.876;
 layerId = master01;
 shapes = (
 {
@@ -11366,6 +11512,7 @@ kernRight = KO_H;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.844;
 background = {
 anchors = (
 {
@@ -11706,6 +11853,7 @@ kernRight = KO_O;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.898;
 background = {
 anchors = (
 {
@@ -11801,6 +11949,7 @@ kernRight = KO_O;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.842;
 background = {
 anchors = (
 {
@@ -11887,6 +12036,7 @@ kernRight = KO_O;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.908;
 layerId = master01;
 shapes = (
 {
@@ -11909,6 +12059,7 @@ kernRight = KO_O;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.871;
 background = {
 anchors = (
 {
@@ -12006,6 +12157,7 @@ kernRight = KO_O;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.884;
 background = {
 anchors = (
 {
@@ -12112,6 +12264,7 @@ kernRight = KO_O;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.866;
 background = {
 anchors = (
 {
@@ -12230,6 +12383,7 @@ kernRight = KO_O;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.798;
 background = {
 anchors = (
 {
@@ -12336,6 +12490,7 @@ kernRight = KO_O;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.861;
 background = {
 anchors = (
 {
@@ -12452,6 +12607,7 @@ kernRight = KO_O;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.917;
 background = {
 anchors = (
 {
@@ -12572,6 +12728,7 @@ glyphname = Odblgrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.887;
 background = {
 anchors = (
 {
@@ -12676,6 +12833,7 @@ kernRight = KO_O;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.825;
 background = {
 anchors = (
 {
@@ -12794,6 +12952,7 @@ glyphname = Odieresismacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.856;
 background = {
 anchors = (
 {
@@ -12927,6 +13086,7 @@ kernRight = KO_O;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.886;
 layerId = master01;
 shapes = (
 {
@@ -12947,6 +13107,7 @@ glyphname = Odotaccentmacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.805;
 background = {
 anchors = (
 {
@@ -13063,6 +13224,7 @@ kernRight = KO_O;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.907;
 background = {
 anchors = (
 {
@@ -13166,6 +13328,7 @@ kernRight = KO_O;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.834;
 background = {
 anchors = (
 {
@@ -13261,6 +13424,7 @@ kernRight = KO_O;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.866;
 background = {
 anchors = (
 {
@@ -13366,6 +13530,7 @@ kernRight = KO_Ohorn;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.799;
 background = {
 anchors = (
 {
@@ -13471,6 +13636,7 @@ kernRight = KO_Ohorn;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.799;
 background = {
 anchors = (
 {
@@ -13585,6 +13751,7 @@ kernRight = KO_Ohorn;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.825;
 background = {
 anchors = (
 {
@@ -13707,6 +13874,7 @@ kernRight = KO_Ohorn;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.857;
 background = {
 anchors = (
 {
@@ -13821,6 +13989,7 @@ kernRight = KO_Ohorn;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.851;
 background = {
 anchors = (
 {
@@ -13945,6 +14114,7 @@ kernRight = KO_Ohorn;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.868;
 background = {
 anchors = (
 {
@@ -14075,6 +14245,7 @@ kernRight = KO_O;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.863;
 background = {
 anchors = (
 {
@@ -14179,6 +14350,7 @@ kernRight = KO_O;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.813;
 background = {
 anchors = (
 {
@@ -14284,6 +14456,7 @@ kernRight = KO_O;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.796;
 background = {
 anchors = (
 {
@@ -14379,6 +14552,7 @@ kernRight = KO_O;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.78;
 layerId = master01;
 shapes = (
 {
@@ -14403,6 +14577,7 @@ glyphname = Omacrongrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.86;
 layerId = master01;
 shapes = (
 {
@@ -14429,6 +14604,7 @@ kernRight = KO_O;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.859;
 background = {
 anchors = (
 {
@@ -14537,6 +14713,7 @@ glyphname = Oogonekmacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.862;
 layerId = master01;
 shapes = (
 {
@@ -14563,6 +14740,7 @@ kernRight = KO_Oopen;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.841;
 layerId = master01;
 shapes = (
 {
@@ -14760,6 +14938,7 @@ kernRight = KO_Oslash;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.828;
 background = {
 anchors = (
 {
@@ -14873,6 +15052,7 @@ kernRight = KO_O;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.904;
 background = {
 anchors = (
 {
@@ -14982,6 +15162,7 @@ glyphname = Otildeacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.795;
 layerId = master01;
 shapes = (
 {
@@ -15005,6 +15186,7 @@ unicode = 7756;
 glyphname = Otildedieresis;
 layers = (
 {
+.lastUpdate = 719353803.779;
 layerId = master01;
 shapes = (
 {
@@ -15029,6 +15211,7 @@ glyphname = Otildemacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.815;
 background = {
 anchors = (
 {
@@ -15383,6 +15566,7 @@ kernRight = KO_P;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.88;
 layerId = master01;
 shapes = (
 {
@@ -15405,6 +15589,7 @@ kernRight = KO_P;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.85;
 background = {
 anchors = (
 {
@@ -15838,6 +16023,7 @@ kernRight = KO_R;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.826;
 background = {
 anchors = (
 {
@@ -15918,6 +16104,7 @@ kernRight = KO_R;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.866;
 background = {
 anchors = (
 {
@@ -16000,6 +16187,7 @@ kernRight = KO_R;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.846;
 background = {
 anchors = (
 {
@@ -16090,6 +16278,7 @@ glyphname = Rdblgrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.873;
 background = {
 anchors = (
 {
@@ -16179,6 +16368,7 @@ kernRight = KO_R;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.879;
 layerId = master01;
 shapes = (
 {
@@ -16201,6 +16391,7 @@ kernRight = KO_R;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.888;
 background = {
 anchors = (
 {
@@ -16289,6 +16480,7 @@ kernRight = KO_R;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.823;
 layerId = master01;
 shapes = (
 {
@@ -16315,6 +16507,7 @@ kernRight = KO_R;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.837;
 background = {
 anchors = (
 {
@@ -16405,6 +16598,7 @@ kernRight = KO_Rlinebelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.862;
 background = {
 anchors = (
 {
@@ -16617,6 +16811,7 @@ kernRight = KO_S;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.872;
 background = {
 anchors = (
 {
@@ -16705,6 +16900,7 @@ glyphname = Sacutedotaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.906;
 layerId = master01;
 shapes = (
 {
@@ -16731,6 +16927,7 @@ kernRight = KO_S;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.867;
 background = {
 anchors = (
 {
@@ -16821,6 +17018,7 @@ glyphname = Scarondotaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.838;
 layerId = master01;
 shapes = (
 {
@@ -16847,6 +17045,7 @@ kernRight = KO_S;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.901;
 background = {
 anchors = (
 {
@@ -16952,6 +17151,7 @@ kernRight = KO_S;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.784;
 background = {
 anchors = (
 {
@@ -17044,6 +17244,7 @@ kernRight = KO_S;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.915;
 background = {
 anchors = (
 {
@@ -17146,6 +17347,7 @@ kernRight = KO_S;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.861;
 background = {
 anchors = (
 {
@@ -17244,6 +17446,7 @@ kernRight = KO_S;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.849;
 background = {
 anchors = (
 {
@@ -17340,6 +17543,7 @@ glyphname = Sdotbelowdotaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.872;
 layerId = master01;
 shapes = (
 {
@@ -17479,6 +17683,7 @@ kernRight = KO_T;
 lastChange = "2023-10-18 20:33:07 +0000";
 layers = (
 {
+.lastUpdate = 719353987.748;
 anchors = (
 {
 name = bottom;
@@ -17551,6 +17756,7 @@ kernRight = KO_Tbar;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.817;
 background = {
 shapes = (
 {
@@ -17586,6 +17792,7 @@ kernRight = KO_Tcaron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.811;
 background = {
 anchors = (
 {
@@ -17646,6 +17853,7 @@ kernRight = KO_Tcommaaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.836;
 background = {
 anchors = (
 {
@@ -17719,6 +17927,7 @@ kernRight = KO_Tcircumflexbelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.781;
 layerId = master01;
 shapes = (
 {
@@ -17741,6 +17950,7 @@ kernRight = KO_Tcommaaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.821;
 background = {
 anchors = (
 {
@@ -17811,6 +18021,7 @@ kernRight = KO_Tcaron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.835;
 background = {
 anchors = (
 {
@@ -17877,6 +18088,7 @@ kernRight = KO_Tcommaaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.833;
 background = {
 anchors = (
 {
@@ -17943,6 +18155,7 @@ kernRight = KO_Tmacronbelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.818;
 layerId = master01;
 shapes = (
 {
@@ -18069,6 +18282,7 @@ kernRight = KO_U;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.783;
 background = {
 anchors = (
 {
@@ -18145,6 +18359,7 @@ kernRight = KO_U;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.872;
 background = {
 anchors = (
 {
@@ -18231,6 +18446,7 @@ kernRight = KO_U;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.789;
 layerId = master01;
 shapes = (
 {
@@ -18253,6 +18469,7 @@ kernRight = KO_U;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.815;
 background = {
 anchors = (
 {
@@ -18331,6 +18548,7 @@ kernRight = KO_U;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.827;
 layerId = master01;
 shapes = (
 {
@@ -18351,6 +18569,7 @@ glyphname = Udblgrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.888;
 background = {
 anchors = (
 {
@@ -18436,6 +18655,7 @@ kernRight = KO_U;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.905;
 background = {
 anchors = (
 {
@@ -18537,6 +18757,7 @@ kernRight = KO_U;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.919;
 layerId = master01;
 shapes = (
 {
@@ -18561,6 +18782,7 @@ glyphname = Udieresisbelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.832;
 layerId = master01;
 shapes = (
 {
@@ -18583,6 +18805,7 @@ kernRight = KO_U;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.827;
 layerId = master01;
 shapes = (
 {
@@ -18609,6 +18832,7 @@ kernRight = KO_U;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.821;
 layerId = master01;
 shapes = (
 {
@@ -18635,6 +18859,7 @@ kernRight = KO_U;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.92;
 layerId = master01;
 shapes = (
 {
@@ -18661,6 +18886,7 @@ kernRight = KO_U;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.892;
 background = {
 anchors = (
 {
@@ -18745,6 +18971,7 @@ kernRight = KO_U;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.853;
 background = {
 anchors = (
 {
@@ -18821,6 +19048,7 @@ kernRight = KO_U;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.792;
 background = {
 anchors = (
 {
@@ -18907,6 +19135,7 @@ kernRight = KO_Uhorn;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.778;
 background = {
 anchors = (
 {
@@ -18993,6 +19222,7 @@ kernRight = KO_Uhorn;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.9;
 background = {
 anchors = (
 {
@@ -19088,6 +19318,7 @@ kernRight = KO_Uhorn;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.858;
 background = {
 anchors = (
 {
@@ -19191,6 +19422,7 @@ kernRight = KO_Uhorn;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.847;
 background = {
 anchors = (
 {
@@ -19286,6 +19518,7 @@ kernRight = KO_Uhorn;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.778;
 background = {
 anchors = (
 {
@@ -19391,6 +19624,7 @@ kernRight = KO_Uhorn;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.87;
 background = {
 anchors = (
 {
@@ -19502,6 +19736,7 @@ kernRight = KO_U;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.853;
 background = {
 anchors = (
 {
@@ -19585,6 +19820,7 @@ glyphname = Uinvertedbreve;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.857;
 background = {
 anchors = (
 {
@@ -19671,6 +19907,7 @@ kernRight = KO_U;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.845;
 background = {
 anchors = (
 {
@@ -19745,6 +19982,7 @@ glyphname = Umacrondieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.8;
 layerId = master01;
 shapes = (
 {
@@ -19771,6 +20009,7 @@ kernRight = KO_U;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.84;
 background = {
 shapes = (
 {
@@ -19843,6 +20082,7 @@ glyphname = "Upsilon-latin";
 lastChange = "2023-10-18 20:23:05 +0000";
 layers = (
 {
+.lastUpdate = 719353204.926;
 layerId = master01;
 shapes = (
 {
@@ -19895,6 +20135,7 @@ kernRight = KO_U;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.776;
 background = {
 anchors = (
 {
@@ -19996,6 +20237,7 @@ kernRight = KO_U;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.786;
 background = {
 anchors = (
 {
@@ -20086,6 +20328,7 @@ glyphname = Utildeacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.814;
 layerId = master01;
 shapes = (
 {
@@ -20110,6 +20353,7 @@ glyphname = Utildebelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.91;
 layerId = master01;
 shapes = (
 {
@@ -20214,6 +20458,7 @@ kernRight = KO_Vdotbelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.836;
 layerId = master01;
 shapes = (
 {
@@ -20236,6 +20481,7 @@ kernRight = KO_V;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.802;
 layerId = master01;
 shapes = (
 {
@@ -20258,6 +20504,7 @@ kernRight = KO_A;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.911;
 anchors = (
 {
 name = bottom;
@@ -20499,6 +20746,7 @@ kernRight = KO_W;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.788;
 background = {
 anchors = (
 {
@@ -20565,6 +20813,7 @@ kernRight = KO_W;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.909;
 background = {
 anchors = (
 {
@@ -20633,6 +20882,7 @@ kernRight = KO_W;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.782;
 background = {
 anchors = (
 {
@@ -20721,6 +20971,7 @@ unicode = 7812;
 glyphname = Wdotaccent;
 layers = (
 {
+.lastUpdate = 719353803.914;
 layerId = master01;
 shapes = (
 {
@@ -20741,6 +20992,7 @@ glyphname = Wdotbelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.859;
 layerId = master01;
 shapes = (
 {
@@ -20763,6 +21015,7 @@ kernRight = KO_W;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.913;
 background = {
 anchors = (
 {
@@ -20908,6 +21161,7 @@ kernRight = KO_X;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.919;
 layerId = master01;
 shapes = (
 {
@@ -20930,6 +21184,7 @@ kernRight = KO_X;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.807;
 layerId = master01;
 shapes = (
 {
@@ -21031,6 +21286,7 @@ kernRight = KO_Y;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.883;
 background = {
 anchors = (
 {
@@ -21094,6 +21350,7 @@ kernRight = KO_Y;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.817;
 background = {
 anchors = (
 {
@@ -21159,6 +21416,7 @@ kernRight = KO_Y;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.794;
 background = {
 anchors = (
 {
@@ -21247,6 +21505,7 @@ kernRight = KO_Y;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.841;
 background = {
 anchors = (
 {
@@ -21318,6 +21577,7 @@ kernRight = KO_Y;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.901;
 background = {
 anchors = (
 {
@@ -21389,6 +21649,7 @@ kernRight = KO_Y;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.805;
 background = {
 anchors = (
 {
@@ -21452,6 +21713,7 @@ kernRight = KO_Yhook;
 lastChange = "2023-10-18 20:10:54 +0000";
 layers = (
 {
+.lastUpdate = 719352654.871;
 anchors = (
 {
 name = bottom;
@@ -21502,6 +21764,7 @@ kernRight = KO_Y;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.902;
 background = {
 anchors = (
 {
@@ -21575,6 +21838,7 @@ kernRight = KO_Y;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.91;
 background = {
 anchors = (
 {
@@ -21638,6 +21902,7 @@ kernRight = KO_Y;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.914;
 background = {
 anchors = (
 {
@@ -21811,6 +22076,7 @@ kernRight = KO_Z;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.853;
 background = {
 anchors = (
 {
@@ -21873,6 +22139,7 @@ kernRight = KO_Z;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.786;
 background = {
 anchors = (
 {
@@ -21937,6 +22204,7 @@ kernRight = KO_Z;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.86;
 layerId = master01;
 shapes = (
 {
@@ -21959,6 +22227,7 @@ kernRight = KO_Z;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.893;
 background = {
 anchors = (
 {
@@ -22029,6 +22298,7 @@ kernRight = KO_Z;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.803;
 background = {
 anchors = (
 {
@@ -22099,6 +22369,7 @@ kernRight = KO_Z;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.879;
 layerId = master01;
 shapes = (
 {
@@ -22147,6 +22418,7 @@ kernRight = KO_Lcommaaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.803;
 layerId = master01;
 shapes = (
 {
@@ -22168,6 +22440,7 @@ kernRight = KO_H;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.867;
 layerId = master01;
 shapes = (
 {
@@ -22189,6 +22462,7 @@ kernRight = KO_Nhookleft;
 lastChange = "2023-10-18 20:23:11 +0000";
 layers = (
 {
+.lastUpdate = 719353803.81;
 background = {
 shapes = (
 {
@@ -22445,6 +22719,7 @@ kernRight = KO_aacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.82;
 background = {
 anchors = (
 {
@@ -22543,6 +22818,7 @@ kernRight = KO_abreve;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.818;
 background = {
 anchors = (
 {
@@ -22651,6 +22927,7 @@ kernRight = KO_abreveacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.894;
 background = {
 anchors = (
 {
@@ -22768,6 +23045,7 @@ kernRight = KO_abreve;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.878;
 background = {
 anchors = (
 {
@@ -22897,6 +23175,7 @@ kernRight = KO_aacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.888;
 background = {
 anchors = (
 {
@@ -23014,6 +23293,7 @@ kernRight = KO_abreveacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.777;
 background = {
 anchors = (
 {
@@ -23141,6 +23421,7 @@ kernRight = KO_abreveacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.775;
 background = {
 anchors = (
 {
@@ -23274,6 +23555,7 @@ kernRight = KO_amacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.902;
 background = {
 anchors = (
 {
@@ -23374,6 +23656,7 @@ kernRight = KO_amacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.791;
 background = {
 anchors = (
 {
@@ -23474,6 +23757,7 @@ kernRight = KO_acircumflexacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.8;
 background = {
 anchors = (
 {
@@ -23583,6 +23867,7 @@ kernRight = KO_amacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.86;
 background = {
 anchors = (
 {
@@ -23704,6 +23989,7 @@ kernRight = KO_acircumflexgrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.778;
 background = {
 anchors = (
 {
@@ -23818,6 +24104,7 @@ kernRight = KO_acircumflexhookabove;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.918;
 background = {
 anchors = (
 {
@@ -23937,6 +24224,7 @@ kernRight = KO_amacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.865;
 background = {
 anchors = (
 {
@@ -24060,6 +24348,7 @@ glyphname = adblgrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.885;
 background = {
 anchors = (
 {
@@ -24167,6 +24456,7 @@ kernRight = KO_adieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.826;
 background = {
 anchors = (
 {
@@ -24290,6 +24580,7 @@ kernRight = KO_adieresismacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.797;
 layerId = master01;
 shapes = (
 {
@@ -24316,6 +24607,7 @@ kernRight = KO_a;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.887;
 layerId = master01;
 shapes = (
 {
@@ -24338,6 +24630,7 @@ kernRight = KO_a;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.828;
 background = {
 anchors = (
 {
@@ -24442,6 +24735,7 @@ glyphname = adotmacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.851;
 layerId = master01;
 shapes = (
 {
@@ -24468,6 +24762,7 @@ kernRight = KO_agrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.816;
 background = {
 anchors = (
 {
@@ -24566,6 +24861,7 @@ kernRight = KO_agrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.865;
 background = {
 anchors = (
 {
@@ -24672,6 +24968,7 @@ glyphname = ainvertedbreve;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.819;
 background = {
 anchors = (
 {
@@ -24780,6 +25077,7 @@ kernRight = KO_amacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.842;
 background = {
 anchors = (
 {
@@ -25184,6 +25482,7 @@ kernRight = KO_aacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.796;
 background = {
 anchors = (
 {
@@ -25305,6 +25604,7 @@ glyphname = aringbelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.814;
 layerId = master01;
 shapes = (
 {
@@ -25327,6 +25627,7 @@ kernRight = KO_amacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.845;
 background = {
 anchors = (
 {
@@ -25636,6 +25937,7 @@ kernRight = KO_ae;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.82;
 background = {
 anchors = (
 {
@@ -25759,6 +26061,7 @@ kernRight = KO_ae;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.806;
 layerId = master01;
 shapes = (
 {
@@ -25781,6 +26084,7 @@ kernRight = KO_b;
 lastChange = "2023-10-18 20:12:58 +0000";
 layers = (
 {
+.lastUpdate = 719352778.837;
 anchors = (
 {
 name = bottom;
@@ -25925,6 +26229,7 @@ kernRight = KO_bdotaccent;
 lastChange = "2023-10-18 20:12:59 +0000";
 layers = (
 {
+.lastUpdate = 719353803.779;
 background = {
 anchors = (
 {
@@ -26017,6 +26322,7 @@ glyphname = bdotbelow;
 lastChange = "2023-10-18 20:12:59 +0000";
 layers = (
 {
+.lastUpdate = 719353803.913;
 layerId = master01;
 shapes = (
 {
@@ -26039,6 +26345,7 @@ kernRight = KO_b;
 lastChange = "2023-10-18 20:13:32 +0000";
 layers = (
 {
+.lastUpdate = 719352812.033;
 anchors = (
 {
 name = bottom;
@@ -26114,6 +26421,7 @@ kernRight = KO_bilabialclick;
 lastChange = "2023-10-18 20:26:15 +0000";
 layers = (
 {
+.lastUpdate = 719353803.807;
 layerId = master01;
 shapes = (
 {
@@ -26136,6 +26444,7 @@ kernRight = KO_bmacronbelow;
 lastChange = "2023-10-18 20:12:59 +0000";
 layers = (
 {
+.lastUpdate = 719353803.866;
 layerId = master01;
 shapes = (
 {
@@ -26158,6 +26467,7 @@ kernRight = KO_b;
 lastChange = "2023-10-18 20:12:59 +0000";
 layers = (
 {
+.lastUpdate = 719353803.835;
 layerId = master01;
 shapes = (
 {
@@ -26305,6 +26615,7 @@ kernRight = KO_cacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.873;
 background = {
 anchors = (
 {
@@ -26379,6 +26690,7 @@ glyphname = cbar;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.842;
 layerId = master01;
 shapes = (
 {
@@ -26401,6 +26713,7 @@ kernRight = KO_ccaron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.897;
 background = {
 anchors = (
 {
@@ -26479,6 +26792,7 @@ kernRight = KO_ccedilla;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.908;
 background = {
 anchors = (
 {
@@ -26568,6 +26882,7 @@ glyphname = ccedillaacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.921;
 layerId = master01;
 shapes = (
 {
@@ -26594,6 +26909,7 @@ kernRight = KO_ccircumflex;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.805;
 background = {
 anchors = (
 {
@@ -26672,6 +26988,7 @@ kernRight = KO_cdotaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.875;
 background = {
 anchors = (
 {
@@ -26754,6 +27071,7 @@ glyphname = creversed;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.847;
 layerId = master01;
 shapes = (
 {
@@ -27016,6 +27334,7 @@ kernRight = KO_dcaron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.892;
 background = {
 anchors = (
 {
@@ -27115,6 +27434,7 @@ kernRight = KO_d;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.879;
 layerId = master01;
 shapes = (
 {
@@ -27137,6 +27457,7 @@ kernRight = KO_d;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.911;
 layerId = master01;
 shapes = (
 {
@@ -27159,6 +27480,7 @@ kernRight = KO_dcroat;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.822;
 background = {
 anchors = (
 {
@@ -27244,6 +27566,7 @@ kernRight = KO_d;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.897;
 background = {
 anchors = (
 {
@@ -27337,6 +27660,7 @@ kernRight = KO_d;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.855;
 layerId = master01;
 shapes = (
 {
@@ -27359,6 +27683,7 @@ kernRight = KO_dhook;
 lastChange = "2023-10-18 20:13:37 +0000";
 layers = (
 {
+.lastUpdate = 719352817.89;
 anchors = (
 {
 name = bottom;
@@ -27438,6 +27763,7 @@ kernRight = KO_d;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.869;
 layerId = master01;
 shapes = (
 {
@@ -27718,6 +28044,7 @@ kernRight = KO_eacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.819;
 background = {
 anchors = (
 {
@@ -27800,6 +28127,7 @@ kernRight = KO_ebreve;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.829;
 background = {
 anchors = (
 {
@@ -27892,6 +28220,7 @@ kernRight = KO_ecaron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.79;
 background = {
 anchors = (
 {
@@ -27974,6 +28303,7 @@ glyphname = ecedilla;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.869;
 layerId = master01;
 shapes = (
 {
@@ -27994,6 +28324,7 @@ glyphname = ecedillabreve;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.878;
 layerId = master01;
 shapes = (
 {
@@ -28020,6 +28351,7 @@ kernRight = KO_ecircumflex;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.807;
 background = {
 anchors = (
 {
@@ -28104,6 +28436,7 @@ kernRight = KO_ecircumflexacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.899;
 background = {
 anchors = (
 {
@@ -28195,6 +28528,7 @@ glyphname = ecircumflexbelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.864;
 layerId = master01;
 shapes = (
 {
@@ -28217,6 +28551,7 @@ kernRight = KO_ecircumflex;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.783;
 background = {
 anchors = (
 {
@@ -28322,6 +28657,7 @@ kernRight = KO_ecircumflexgrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.876;
 background = {
 anchors = (
 {
@@ -28415,6 +28751,7 @@ kernRight = KO_ecircumflexhookabove;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.777;
 background = {
 anchors = (
 {
@@ -28518,6 +28855,7 @@ kernRight = KO_ecircumflextilde;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.822;
 background = {
 anchors = (
 {
@@ -28625,6 +28963,7 @@ glyphname = edblgrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.804;
 background = {
 anchors = (
 {
@@ -28716,6 +29055,7 @@ kernRight = KO_edieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.87;
 background = {
 anchors = (
 {
@@ -28823,6 +29163,7 @@ kernRight = KO_e;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.781;
 background = {
 anchors = (
 {
@@ -28913,6 +29254,7 @@ kernRight = KO_e;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.871;
 background = {
 anchors = (
 {
@@ -29003,6 +29345,7 @@ kernRight = KO_egrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.848;
 background = {
 anchors = (
 {
@@ -29085,6 +29428,7 @@ kernRight = KO_egrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.816;
 background = {
 anchors = (
 {
@@ -29177,6 +29521,7 @@ kernRight = KO_edieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.78;
 background = {
 anchors = (
 {
@@ -29269,6 +29614,7 @@ kernRight = KO_emacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.909;
 background = {
 anchors = (
 {
@@ -29351,6 +29697,7 @@ kernRight = KO_emacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.777;
 layerId = master01;
 shapes = (
 {
@@ -29371,6 +29718,7 @@ glyphname = emacrongrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.852;
 layerId = master01;
 shapes = (
 {
@@ -29629,6 +29977,7 @@ kernRight = KO_esh;
 lastChange = "2023-10-18 20:25:20 +0000";
 layers = (
 {
+.lastUpdate = 719353424.165;
 anchors = (
 {
 name = bottom;
@@ -29675,6 +30024,7 @@ kernRight = KO_emacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.905;
 background = {
 anchors = (
 {
@@ -29771,6 +30121,7 @@ glyphname = etildebelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.809;
 layerId = master01;
 shapes = (
 {
@@ -29793,6 +30144,7 @@ kernRight = KO_schwa;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.864;
 layerId = master01;
 shapes = (
 {
@@ -29998,6 +30350,7 @@ kernRight = KO_f;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.861;
 background = {
 anchors = (
 {
@@ -30226,6 +30579,7 @@ kernRight = KO_g;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.859;
 background = {
 anchors = (
 {
@@ -30318,6 +30672,7 @@ kernRight = KO_gbreve;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.881;
 background = {
 anchors = (
 {
@@ -30420,6 +30775,7 @@ kernRight = KO_g;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.904;
 background = {
 anchors = (
 {
@@ -30514,6 +30870,7 @@ kernRight = KO_g;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.87;
 background = {
 anchors = (
 {
@@ -30608,6 +30965,7 @@ kernRight = KO_g;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.832;
 background = {
 anchors = (
 {
@@ -30712,6 +31070,7 @@ kernRight = KO_g;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.79;
 background = {
 anchors = (
 {
@@ -30812,6 +31171,7 @@ kernRight = KO_g;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.794;
 background = {
 anchors = (
 {
@@ -31023,6 +31383,7 @@ kernRight = KO_n;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.811;
 background = {
 shapes = (
 {
@@ -31058,6 +31419,7 @@ kernRight = KO_n;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.877;
 layerId = master01;
 shapes = (
 {
@@ -31080,6 +31442,7 @@ kernRight = KO_n;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.915;
 layerId = master01;
 shapes = (
 {
@@ -31102,6 +31465,7 @@ kernRight = KO_n;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.859;
 layerId = master01;
 shapes = (
 {
@@ -31124,6 +31488,7 @@ kernRight = KO_n;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.816;
 background = {
 anchors = (
 {
@@ -31203,6 +31568,7 @@ glyphname = hdieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.824;
 layerId = master01;
 shapes = (
 {
@@ -31223,6 +31589,7 @@ glyphname = hdotaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.831;
 layerId = master01;
 shapes = (
 {
@@ -31245,6 +31612,7 @@ kernRight = KO_n;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.783;
 background = {
 anchors = (
 {
@@ -31332,6 +31700,7 @@ kernRight = KO_n;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.83;
 layerId = master01;
 shapes = (
 {
@@ -31354,6 +31723,7 @@ kernRight = KO_q;
 lastChange = "2023-10-18 20:16:24 +0000";
 layers = (
 {
+.lastUpdate = 719352981.758;
 layerId = master01;
 shapes = (
 {
@@ -31579,6 +31949,7 @@ kernRight = KO_iacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.797;
 background = {
 anchors = (
 {
@@ -31633,6 +32004,7 @@ kernRight = KO_ibreve;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.822;
 background = {
 anchors = (
 {
@@ -31697,6 +32069,7 @@ kernRight = KO_icaron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.798;
 layerId = master01;
 shapes = (
 {
@@ -31719,6 +32092,7 @@ kernRight = KO_icircumflex;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.86;
 background = {
 anchors = (
 {
@@ -31773,6 +32147,7 @@ glyphname = idblgrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.891;
 background = {
 anchors = (
 {
@@ -31836,6 +32211,7 @@ kernRight = KO_idieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.893;
 background = {
 anchors = (
 {
@@ -31913,6 +32289,7 @@ glyphname = idieresisacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.912;
 layerId = master01;
 shapes = (
 {
@@ -31939,6 +32316,7 @@ kernRight = KO_idotaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.824;
 background = {
 anchors = (
 {
@@ -32000,6 +32378,7 @@ kernRight = KO_i;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.776;
 background = {
 anchors = (
 {
@@ -32079,6 +32458,7 @@ kernRight = KO_igrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.804;
 background = {
 anchors = (
 {
@@ -32133,6 +32513,7 @@ kernRight = KO_ihookabove;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.809;
 background = {
 anchors = (
 {
@@ -32195,6 +32576,7 @@ glyphname = iinvertedbreve;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.873;
 background = {
 anchors = (
 {
@@ -32259,6 +32641,7 @@ kernRight = KO_imacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.858;
 background = {
 anchors = (
 {
@@ -32313,6 +32696,7 @@ kernRight = KO_idotaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.782;
 background = {
 anchors = (
 {
@@ -32398,6 +32782,7 @@ kernRight = KO_istroke;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.91;
 layerId = master01;
 shapes = (
 {
@@ -32424,6 +32809,7 @@ kernRight = KO_itilde;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.896;
 background = {
 anchors = (
 {
@@ -32492,6 +32878,7 @@ glyphname = itildebelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.827;
 layerId = master01;
 shapes = (
 {
@@ -32514,6 +32901,7 @@ kernRight = KO_j;
 lastChange = "2023-10-18 20:36:39 +0000";
 layers = (
 {
+.lastUpdate = 719354199.105;
 background = {
 anchors = (
 {
@@ -32600,6 +32988,7 @@ width = 937;
 }
 );
 unicode = 307;
+changeCount = 1;
 },
 {
 glyphname = j;
@@ -32789,6 +33178,7 @@ kernRight = KO_jacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.886;
 layerId = master01;
 shapes = (
 {
@@ -32810,6 +33200,7 @@ kernRight = KO_jcircumflex;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.893;
 background = {
 anchors = (
 {
@@ -32868,6 +33259,7 @@ kernRight = KO_jdotlessstroke;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.918;
 layerId = master01;
 shapes = (
 {
@@ -32888,6 +33280,7 @@ glyphname = jstroke;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.802;
 layerId = master01;
 shapes = (
 {
@@ -33023,6 +33416,7 @@ kernRight = KO_k;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.787;
 layerId = master01;
 shapes = (
 {
@@ -33045,6 +33439,7 @@ kernRight = KO_k;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.793;
 layerId = master01;
 shapes = (
 {
@@ -33067,6 +33462,7 @@ kernRight = KO_k;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.831;
 background = {
 anchors = (
 {
@@ -33151,6 +33547,7 @@ kernRight = KO_k;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.874;
 layerId = master01;
 shapes = (
 {
@@ -33247,6 +33644,7 @@ kernRight = KO_khook;
 lastChange = "2023-10-18 20:14:16 +0000";
 layers = (
 {
+.lastUpdate = 719352856.39;
 anchors = (
 {
 name = bottom;
@@ -33299,6 +33697,7 @@ kernRight = KO_k;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.872;
 layerId = master01;
 shapes = (
 {
@@ -33319,6 +33718,7 @@ glyphname = kstroke;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.833;
 layerId = master01;
 shapes = (
 {
@@ -33430,6 +33830,7 @@ kernRight = KO_l;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.912;
 background = {
 anchors = (
 {
@@ -33490,6 +33891,7 @@ glyphname = lbar;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.78;
 layerId = master01;
 shapes = (
 {
@@ -33512,6 +33914,7 @@ kernRight = KO_lcaron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.913;
 background = {
 anchors = (
 {
@@ -33577,6 +33980,7 @@ kernRight = KO_lcircumflexbelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.833;
 layerId = master01;
 shapes = (
 {
@@ -33599,6 +34003,7 @@ kernRight = KO_l;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.843;
 background = {
 anchors = (
 {
@@ -33673,6 +34078,7 @@ kernRight = KO_ldot;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.839;
 background = {
 anchors = (
 {
@@ -33746,6 +34152,7 @@ kernRight = KO_l;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.819;
 background = {
 anchors = (
 {
@@ -33816,6 +34223,7 @@ kernRight = KO_ldotbelowmacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.897;
 layerId = master01;
 shapes = (
 {
@@ -33840,6 +34248,7 @@ glyphname = ldoublebar;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.884;
 layerId = master01;
 shapes = (
 {
@@ -33864,6 +34273,7 @@ glyphname = lj;
 lastChange = "2023-10-18 20:36:39 +0000";
 layers = (
 {
+.lastUpdate = 719354199.106;
 background = {
 anchors = (
 {
@@ -33941,6 +34351,7 @@ width = 885;
 }
 );
 unicode = 457;
+changeCount = 1;
 },
 {
 glyphname = llinebelow;
@@ -33949,6 +34360,7 @@ kernRight = KO_llinebelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.841;
 background = {
 anchors = (
 {
@@ -34011,6 +34423,7 @@ kernRight = KO_lslash;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.877;
 background = {
 shapes = (
 {
@@ -34203,6 +34616,7 @@ kernRight = KO_n;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.787;
 layerId = master01;
 shapes = (
 {
@@ -34225,6 +34639,7 @@ kernRight = KO_n;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.881;
 background = {
 anchors = (
 {
@@ -34331,6 +34746,7 @@ kernRight = KO_n;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.792;
 background = {
 anchors = (
 {
@@ -34508,6 +34924,7 @@ kernRight = KO_u;
 lastChange = "2023-10-18 20:25:45 +0000";
 layers = (
 {
+.lastUpdate = 719353542.77;
 layerId = master01;
 shapes = (
 {
@@ -34682,6 +35099,7 @@ kernRight = KO_ntilde;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.789;
 background = {
 anchors = (
 {
@@ -34758,6 +35176,7 @@ kernRight = KO_ncaron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.858;
 background = {
 anchors = (
 {
@@ -34836,6 +35255,7 @@ kernRight = KO_n;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.852;
 layerId = master01;
 shapes = (
 {
@@ -34858,6 +35278,7 @@ kernRight = KO_n;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.913;
 background = {
 anchors = (
 {
@@ -34946,6 +35367,7 @@ kernRight = KO_n;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.915;
 background = {
 anchors = (
 {
@@ -35030,6 +35452,7 @@ kernRight = KO_n;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.837;
 background = {
 anchors = (
 {
@@ -35114,6 +35537,7 @@ kernRight = KO_n;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.856;
 layerId = master01;
 shapes = (
 {
@@ -35190,6 +35614,7 @@ glyphname = nj;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.81;
 background = {
 anchors = (
 {
@@ -35337,6 +35762,7 @@ kernRight = KO_n;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.843;
 layerId = master01;
 shapes = (
 {
@@ -35359,6 +35785,7 @@ kernRight = KO_ntilde;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.775;
 background = {
 anchors = (
 {
@@ -35451,6 +35878,7 @@ kernRight = KO_eng;
 lastChange = "2023-10-18 20:23:11 +0000";
 layers = (
 {
+.lastUpdate = 719353391.3;
 background = {
 shapes = (
 {
@@ -35528,6 +35956,7 @@ kernRight = KO_o;
 lastChange = "2023-10-18 20:30:51 +0000";
 layers = (
 {
+.lastUpdate = 719353271.602;
 anchors = (
 {
 name = bottom;
@@ -35685,6 +36114,7 @@ kernRight = KO_oacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.903;
 background = {
 anchors = (
 {
@@ -35776,6 +36206,7 @@ kernRight = KO_o;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.896;
 layerId = master01;
 shapes = (
 {
@@ -35798,6 +36229,7 @@ kernRight = KO_obreve;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.811;
 background = {
 anchors = (
 {
@@ -35899,6 +36331,7 @@ kernRight = KO_oacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.835;
 layerId = master01;
 shapes = (
 {
@@ -35921,6 +36354,7 @@ kernRight = KO_ocircumflex;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.804;
 background = {
 anchors = (
 {
@@ -36014,6 +36448,7 @@ kernRight = KO_ocircumflexacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.89;
 background = {
 anchors = (
 {
@@ -36116,6 +36551,7 @@ kernRight = KO_ocircumflex;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.888;
 background = {
 anchors = (
 {
@@ -36230,6 +36666,7 @@ kernRight = KO_ocircumflexgrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.846;
 background = {
 anchors = (
 {
@@ -36332,6 +36769,7 @@ kernRight = KO_ocircumflexhookabove;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.781;
 background = {
 anchors = (
 {
@@ -36444,6 +36882,7 @@ kernRight = KO_ocircumflextilde;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.846;
 background = {
 anchors = (
 {
@@ -36560,6 +36999,7 @@ glyphname = odblgrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.875;
 background = {
 anchors = (
 {
@@ -36660,6 +37100,7 @@ kernRight = KO_odieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.882;
 background = {
 anchors = (
 {
@@ -36774,6 +37215,7 @@ glyphname = odieresismacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.833;
 background = {
 anchors = (
 {
@@ -36903,6 +37345,7 @@ kernRight = KO_ograve;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.804;
 layerId = master01;
 shapes = (
 {
@@ -36923,6 +37366,7 @@ glyphname = odotaccentmacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.81;
 background = {
 anchors = (
 {
@@ -37035,6 +37479,7 @@ kernRight = KO_o;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.882;
 background = {
 anchors = (
 {
@@ -37134,6 +37579,7 @@ kernRight = KO_ograve;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.892;
 background = {
 anchors = (
 {
@@ -37225,6 +37671,7 @@ kernRight = KO_ograve;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.831;
 background = {
 anchors = (
 {
@@ -37326,6 +37773,7 @@ kernRight = KO_ohorn;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.789;
 background = {
 anchors = (
 {
@@ -37427,6 +37875,7 @@ kernRight = KO_ohorn;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.909;
 background = {
 anchors = (
 {
@@ -37537,6 +37986,7 @@ kernRight = KO_ohorn;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.789;
 background = {
 anchors = (
 {
@@ -37655,6 +38105,7 @@ kernRight = KO_ohorn;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.883;
 background = {
 anchors = (
 {
@@ -37765,6 +38216,7 @@ kernRight = KO_ohorn;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.803;
 background = {
 anchors = (
 {
@@ -37885,6 +38337,7 @@ kernRight = KO_ohorn;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.898;
 background = {
 anchors = (
 {
@@ -38011,6 +38464,7 @@ kernRight = KO_ohungarumlaut;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.778;
 background = {
 anchors = (
 {
@@ -38111,6 +38565,7 @@ kernRight = KO_odieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.829;
 background = {
 anchors = (
 {
@@ -38212,6 +38667,7 @@ kernRight = KO_oacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.829;
 background = {
 anchors = (
 {
@@ -38303,6 +38759,7 @@ kernRight = KO_oacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.776;
 layerId = master01;
 shapes = (
 {
@@ -38327,6 +38784,7 @@ glyphname = omacrongrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.917;
 layerId = master01;
 shapes = (
 {
@@ -38353,6 +38811,7 @@ kernRight = KO_o;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.888;
 background = {
 anchors = (
 {
@@ -38452,6 +38911,7 @@ glyphname = oogonekmacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.885;
 layerId = master01;
 shapes = (
 {
@@ -38478,6 +38938,7 @@ kernRight = KO_oopen;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.884;
 layerId = master01;
 shapes = (
 {
@@ -38672,6 +39133,7 @@ kernRight = KO_oslashacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.821;
 background = {
 anchors = (
 {
@@ -38781,6 +39243,7 @@ kernRight = KO_oacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.805;
 background = {
 anchors = (
 {
@@ -38886,6 +39349,7 @@ glyphname = otildeacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.894;
 layerId = master01;
 shapes = (
 {
@@ -38910,6 +39374,7 @@ glyphname = otildedieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.843;
 layerId = master01;
 shapes = (
 {
@@ -38934,6 +39399,7 @@ glyphname = otildemacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.844;
 background = {
 anchors = (
 {
@@ -39343,6 +39809,7 @@ kernRight = KO_pacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.783;
 layerId = master01;
 shapes = (
 {
@@ -39365,6 +39832,7 @@ kernRight = KO_pdotaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.891;
 background = {
 anchors = (
 {
@@ -39818,6 +40286,7 @@ kernRight = KO_racute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.865;
 background = {
 anchors = (
 {
@@ -39886,6 +40355,7 @@ kernRight = KO_rcaron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.89;
 background = {
 anchors = (
 {
@@ -39956,6 +40426,7 @@ kernRight = KO_r;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.797;
 background = {
 anchors = (
 {
@@ -40034,6 +40505,7 @@ glyphname = rdblgrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.81;
 background = {
 anchors = (
 {
@@ -40111,6 +40583,7 @@ kernRight = KO_rdotaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.899;
 layerId = master01;
 shapes = (
 {
@@ -40133,6 +40606,7 @@ kernRight = KO_r;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.793;
 background = {
 anchors = (
 {
@@ -40209,6 +40683,7 @@ kernRight = KO_rdotbelowmacron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.835;
 layerId = master01;
 shapes = (
 {
@@ -40235,6 +40710,7 @@ kernRight = KO_rinvertedbreve;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.878;
 background = {
 anchors = (
 {
@@ -40313,6 +40789,7 @@ kernRight = KO_rlinebelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.836;
 background = {
 anchors = (
 {
@@ -40521,6 +40998,7 @@ kernRight = KO_sacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.831;
 background = {
 anchors = (
 {
@@ -40609,6 +41087,7 @@ glyphname = sacutedotaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.875;
 layerId = master01;
 shapes = (
 {
@@ -40635,6 +41114,7 @@ kernRight = KO_scaron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.869;
 background = {
 anchors = (
 {
@@ -40725,6 +41205,7 @@ glyphname = scarondotaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.887;
 layerId = master01;
 shapes = (
 {
@@ -40751,6 +41232,7 @@ kernRight = KO_s;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.878;
 background = {
 anchors = (
 {
@@ -40856,6 +41338,7 @@ kernRight = KO_scircumflex;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.853;
 background = {
 anchors = (
 {
@@ -40948,6 +41431,7 @@ kernRight = KO_s;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.873;
 background = {
 anchors = (
 {
@@ -41050,6 +41534,7 @@ kernRight = KO_sdotaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.808;
 background = {
 anchors = (
 {
@@ -41148,6 +41633,7 @@ kernRight = KO_s;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.808;
 background = {
 anchors = (
 {
@@ -41244,6 +41730,7 @@ glyphname = sdotbelowdotaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.836;
 layerId = master01;
 shapes = (
 {
@@ -41674,6 +42161,7 @@ kernRight = KO_tbar;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.919;
 background = {
 anchors = (
 {
@@ -41751,6 +42239,7 @@ kernRight = KO_tcaron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.823;
 background = {
 anchors = (
 {
@@ -41821,6 +42310,7 @@ kernRight = KO_t;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.801;
 background = {
 anchors = (
 {
@@ -41913,6 +42403,7 @@ kernRight = KO_tcircumflexbelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.815;
 layerId = master01;
 shapes = (
 {
@@ -41935,6 +42426,7 @@ kernRight = KO_t;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.825;
 background = {
 anchors = (
 {
@@ -42024,6 +42516,7 @@ kernRight = KO_tdotaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.784;
 background = {
 anchors = (
 {
@@ -42109,6 +42602,7 @@ kernRight = KO_t;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.876;
 background = {
 anchors = (
 {
@@ -42194,6 +42688,7 @@ kernRight = KO_t;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.807;
 layerId = master01;
 shapes = (
 {
@@ -42355,6 +42850,7 @@ kernRight = KO_uacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.827;
 background = {
 anchors = (
 {
@@ -42439,6 +42935,7 @@ kernRight = KO_ubreve;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.795;
 background = {
 anchors = (
 {
@@ -42532,6 +43029,7 @@ kernLeft = KO_udieresis;
 kernRight = KO_uacute;
 layers = (
 {
+.lastUpdate = 719353803.908;
 layerId = master01;
 shapes = (
 {
@@ -42554,6 +43052,7 @@ kernRight = KO_uacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.886;
 background = {
 anchors = (
 {
@@ -42640,6 +43139,7 @@ kernRight = KO_u;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.907;
 layerId = master01;
 shapes = (
 {
@@ -42660,6 +43160,7 @@ glyphname = udblgrave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.904;
 background = {
 anchors = (
 {
@@ -42753,6 +43254,7 @@ kernRight = KO_udieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.82;
 background = {
 anchors = (
 {
@@ -42862,6 +43364,7 @@ kernRight = KO_udieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.817;
 layerId = master01;
 shapes = (
 {
@@ -42886,6 +43389,7 @@ glyphname = udieresisbelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.814;
 layerId = master01;
 shapes = (
 {
@@ -42908,6 +43412,7 @@ kernRight = KO_udieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.896;
 layerId = master01;
 shapes = (
 {
@@ -42934,6 +43439,7 @@ kernRight = KO_udieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.808;
 layerId = master01;
 shapes = (
 {
@@ -42960,6 +43466,7 @@ kernRight = KO_udieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.779;
 layerId = master01;
 shapes = (
 {
@@ -42986,6 +43493,7 @@ kernRight = KO_u;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.788;
 background = {
 anchors = (
 {
@@ -43078,6 +43586,7 @@ kernRight = KO_uacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.856;
 background = {
 anchors = (
 {
@@ -43162,6 +43671,7 @@ kernRight = KO_uacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.874;
 background = {
 anchors = (
 {
@@ -43256,6 +43766,7 @@ kernRight = KO_uhorn;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.812;
 background = {
 anchors = (
 {
@@ -43350,6 +43861,7 @@ kernRight = KO_uhorn;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.879;
 background = {
 anchors = (
 {
@@ -43453,6 +43965,7 @@ kernRight = KO_uhorn;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.838;
 background = {
 anchors = (
 {
@@ -43564,6 +44077,7 @@ kernRight = KO_uhorn;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.88;
 background = {
 anchors = (
 {
@@ -43667,6 +44181,7 @@ kernRight = KO_uhorn;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.812;
 background = {
 anchors = (
 {
@@ -43780,6 +44295,7 @@ kernRight = KO_uhorn;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.839;
 background = {
 anchors = (
 {
@@ -43899,6 +44415,7 @@ kernRight = KO_uhungarumlaut;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.903;
 background = {
 anchors = (
 {
@@ -43990,6 +44507,7 @@ glyphname = uinvertedbreve;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.898;
 background = {
 anchors = (
 {
@@ -44084,6 +44602,7 @@ kernRight = KO_uacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.92;
 background = {
 anchors = (
 {
@@ -44166,6 +44685,7 @@ glyphname = umacrondieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.85;
 layerId = master01;
 shapes = (
 {
@@ -44400,6 +44920,7 @@ kernRight = "KO_upsilon-latin";
 lastChange = "2023-10-18 20:23:05 +0000";
 layers = (
 {
+.lastUpdate = 719353375.028;
 layerId = master01;
 shapes = (
 {
@@ -44453,6 +44974,7 @@ kernRight = KO_uacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.845;
 background = {
 anchors = (
 {
@@ -44562,6 +45084,7 @@ kernRight = KO_uacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.882;
 background = {
 anchors = (
 {
@@ -44660,6 +45183,7 @@ glyphname = utildeacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.83;
 layerId = master01;
 shapes = (
 {
@@ -44684,6 +45208,7 @@ glyphname = utildebelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.854;
 layerId = master01;
 shapes = (
 {
@@ -44798,6 +45323,7 @@ kernRight = KO_v;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.788;
 layerId = master01;
 shapes = (
 {
@@ -44820,6 +45346,7 @@ kernRight = KO_vtilde;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.777;
 layerId = master01;
 shapes = (
 {
@@ -44842,6 +45369,7 @@ kernRight = KO_vturned;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.796;
 anchors = (
 {
 name = bottom;
@@ -44991,6 +45519,7 @@ kernRight = KO_w;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.902;
 background = {
 anchors = (
 {
@@ -45057,6 +45586,7 @@ kernRight = KO_w;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.886;
 background = {
 anchors = (
 {
@@ -45125,6 +45655,7 @@ kernRight = KO_w;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.813;
 background = {
 anchors = (
 {
@@ -45214,6 +45745,7 @@ glyphname = wdotaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.915;
 layerId = master01;
 shapes = (
 {
@@ -45234,6 +45766,7 @@ glyphname = wdotbelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.92;
 layerId = master01;
 shapes = (
 {
@@ -45256,6 +45789,7 @@ kernRight = KO_w;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.829;
 background = {
 anchors = (
 {
@@ -45413,6 +45947,7 @@ kernRight = KO_xdieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.82;
 layerId = master01;
 shapes = (
 {
@@ -45435,6 +45970,7 @@ kernRight = KO_x;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.826;
 layerId = master01;
 shapes = (
 {
@@ -45548,6 +46084,7 @@ kernRight = KO_yacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.798;
 background = {
 anchors = (
 {
@@ -45613,6 +46150,7 @@ kernRight = KO_yacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.861;
 background = {
 anchors = (
 {
@@ -45680,6 +46218,7 @@ kernRight = KO_ydieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.863;
 background = {
 anchors = (
 {
@@ -45770,6 +46309,7 @@ kernRight = KO_ydotaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.854;
 background = {
 anchors = (
 {
@@ -45843,6 +46383,7 @@ kernRight = KO_ydotbelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.916;
 background = {
 anchors = (
 {
@@ -45916,6 +46457,7 @@ kernRight = KO_y;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.895;
 background = {
 anchors = (
 {
@@ -45981,6 +46523,7 @@ kernRight = KO_yhook;
 lastChange = "2023-10-18 20:15:14 +0000";
 layers = (
 {
+.lastUpdate = 719352914.192;
 anchors = (
 {
 name = bottom;
@@ -46033,6 +46576,7 @@ kernRight = KO_yacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.861;
 background = {
 anchors = (
 {
@@ -46108,6 +46652,7 @@ kernRight = KO_y;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.865;
 background = {
 anchors = (
 {
@@ -46171,6 +46716,7 @@ glyphname = yring;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.834;
 layerId = master01;
 shapes = (
 {
@@ -46193,6 +46739,7 @@ kernRight = KO_yacute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.792;
 background = {
 anchors = (
 {
@@ -46274,6 +46821,7 @@ kernRight = KO_yturned;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.88;
 layerId = master01;
 shapes = (
 {
@@ -46387,6 +46935,7 @@ kernRight = KO_zcaron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.894;
 background = {
 anchors = (
 {
@@ -46449,6 +46998,7 @@ kernRight = KO_zcaron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.809;
 background = {
 anchors = (
 {
@@ -46513,6 +47063,7 @@ kernRight = KO_zcircumflex;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.849;
 layerId = master01;
 shapes = (
 {
@@ -46535,6 +47086,7 @@ kernRight = KO_z;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.855;
 background = {
 anchors = (
 {
@@ -46605,6 +47157,7 @@ kernRight = KO_z;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.775;
 background = {
 anchors = (
 {
@@ -46675,6 +47228,7 @@ kernRight = KO_zmacronbelow;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.794;
 layerId = master01;
 shapes = (
 {
@@ -46722,6 +47276,7 @@ kernRight = KO_l;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.812;
 layerId = master01;
 shapes = (
 {
@@ -46743,6 +47298,7 @@ kernRight = KO_n;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.816;
 layerId = master01;
 shapes = (
 {
@@ -46764,6 +47320,7 @@ kernRight = KO_f;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.886;
 anchors = (
 {
 name = caret_1;
@@ -46791,6 +47348,7 @@ kernRight = KO_i;
 lastChange = "2023-10-18 20:36:39 +0000";
 layers = (
 {
+.lastUpdate = 719354199.113;
 anchors = (
 {
 name = caret_1;
@@ -46811,6 +47369,7 @@ width = 1015;
 }
 );
 unicode = 64257;
+changeCount = 1;
 },
 {
 glyphname = fl;
@@ -46819,6 +47378,7 @@ kernRight = KO_l;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.791;
 anchors = (
 {
 name = caret_1;
@@ -47809,6 +48369,7 @@ kernRight = KO_zero;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.782;
 layerId = master01;
 shapes = (
 {
@@ -47833,6 +48394,7 @@ kernRight = KO_zero;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.836;
 layerId = master01;
 shapes = (
 {
@@ -47850,6 +48412,7 @@ kernRight = KO_one;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.87;
 layerId = master01;
 shapes = (
 {
@@ -47867,6 +48430,7 @@ kernRight = KO_two;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.913;
 layerId = master01;
 shapes = (
 {
@@ -47884,6 +48448,7 @@ kernRight = KO_three;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.868;
 layerId = master01;
 shapes = (
 {
@@ -47901,6 +48466,7 @@ kernRight = KO_four;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.903;
 layerId = master01;
 shapes = (
 {
@@ -47918,6 +48484,7 @@ kernRight = KO_five;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.785;
 layerId = master01;
 shapes = (
 {
@@ -47935,6 +48502,7 @@ kernRight = KO_six;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.797;
 layerId = master01;
 shapes = (
 {
@@ -47952,6 +48520,7 @@ kernRight = KO_seven;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.89;
 layerId = master01;
 shapes = (
 {
@@ -47969,6 +48538,7 @@ kernRight = KO_eight;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.822;
 layerId = master01;
 shapes = (
 {
@@ -47986,6 +48556,7 @@ kernRight = KO_nine;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.791;
 layerId = master01;
 shapes = (
 {
@@ -48473,6 +49044,7 @@ glyphname = zero.tf;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.79;
 anchors = (
 {
 name = center;
@@ -48966,6 +49538,7 @@ kernRight = KO_zero.osf.zero;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.802;
 layerId = master01;
 shapes = (
 {
@@ -48985,6 +49558,7 @@ glyphname = zero.tf.zero;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.79;
 layerId = master01;
 shapes = (
 {
@@ -49405,6 +49979,7 @@ glyphname = onehalf;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.919;
 background = {
 shapes = (
 {
@@ -49497,6 +50072,7 @@ glyphname = onethird;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.843;
 layerId = master01;
 shapes = (
 {
@@ -49530,6 +50106,7 @@ glyphname = twothirds;
 lastChange = "2023-10-18 20:36:39 +0000";
 layers = (
 {
+.lastUpdate = 719354199.113;
 layerId = master01;
 shapes = (
 {
@@ -49554,12 +50131,14 @@ L = NoKerning;
 R = NoKerning;
 };
 };
+changeCount = 1;
 },
 {
 glyphname = onequarter;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.85;
 background = {
 shapes = (
 {
@@ -49636,6 +50215,7 @@ glyphname = threequarters;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.808;
 background = {
 shapes = (
 {
@@ -49753,6 +50333,7 @@ kernRight = KO_oneinferior;
 lastChange = "2023-10-18 20:23:11 +0000";
 layers = (
 {
+.lastUpdate = 719353803.803;
 layerId = master01;
 shapes = (
 {
@@ -49780,6 +50361,7 @@ kernRight = KO_twoinferior;
 lastChange = "2023-10-18 20:23:11 +0000";
 layers = (
 {
+.lastUpdate = 719353803.892;
 layerId = master01;
 shapes = (
 {
@@ -49807,6 +50389,7 @@ kernRight = KO_threeinferior;
 lastChange = "2023-10-18 20:23:11 +0000";
 layers = (
 {
+.lastUpdate = 719353803.898;
 layerId = master01;
 shapes = (
 {
@@ -49834,6 +50417,7 @@ kernRight = KO_fourinferior;
 lastChange = "2023-10-18 20:23:11 +0000";
 layers = (
 {
+.lastUpdate = 719353803.906;
 layerId = master01;
 shapes = (
 {
@@ -49861,6 +50445,7 @@ kernRight = KO_one.numr;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.776;
 layerId = master01;
 shapes = (
 {
@@ -49885,6 +50470,7 @@ kernRight = KO_twosuperior;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.828;
 layerId = master01;
 shapes = (
 {
@@ -49910,6 +50496,7 @@ kernRight = KO_threesuperior;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.893;
 layerId = master01;
 shapes = (
 {
@@ -49935,6 +50522,7 @@ kernRight = KO_foursuperior;
 lastChange = "2023-10-18 20:23:11 +0000";
 layers = (
 {
+.lastUpdate = 719353803.84;
 layerId = master01;
 shapes = (
 {
@@ -49977,6 +50565,7 @@ glyphname = nbspace;
 lastChange = "2023-10-18 20:04:59 +0000";
 layers = (
 {
+.lastUpdate = 719352299.635;
 layerId = master01;
 width = 466;
 }
@@ -49995,6 +50584,7 @@ glyphname = enspace;
 lastChange = "2023-10-18 20:04:59 +0000";
 layers = (
 {
+.lastUpdate = 719352299.605;
 layerId = master01;
 width = 1024;
 }
@@ -50007,6 +50597,7 @@ glyphname = emspace;
 lastChange = "2023-10-18 20:04:59 +0000";
 layers = (
 {
+.lastUpdate = 719352299.598;
 layerId = master01;
 width = 2048;
 }
@@ -50019,6 +50610,7 @@ glyphname = enquad;
 lastChange = "2023-10-18 20:04:59 +0000";
 layers = (
 {
+.lastUpdate = 719352299.601;
 layerId = master01;
 width = 1024;
 }
@@ -50031,6 +50623,7 @@ glyphname = emquad;
 lastChange = "2023-10-18 20:04:59 +0000";
 layers = (
 {
+.lastUpdate = 719352299.595;
 layerId = master01;
 width = 2048;
 }
@@ -50043,6 +50636,7 @@ glyphname = threeperemspace;
 lastChange = "2023-10-18 20:04:59 +0000";
 layers = (
 {
+.lastUpdate = 719352299.613;
 layerId = master01;
 width = 682;
 }
@@ -50055,6 +50649,7 @@ glyphname = fourperemspace;
 lastChange = "2023-10-18 20:04:59 +0000";
 layers = (
 {
+.lastUpdate = 719352299.617;
 layerId = master01;
 width = 512;
 }
@@ -50067,6 +50662,7 @@ glyphname = sixperemspace;
 lastChange = "2023-10-18 20:04:59 +0000";
 layers = (
 {
+.lastUpdate = 719352299.621;
 layerId = master01;
 width = 341;
 }
@@ -50079,6 +50675,7 @@ glyphname = figurespace;
 lastChange = "2023-10-18 20:04:59 +0000";
 layers = (
 {
+.lastUpdate = 719352299.608;
 layerId = master01;
 width = 1126;
 }
@@ -50097,6 +50694,7 @@ glyphname = punctuationspace;
 lastChange = "2023-10-18 20:04:59 +0000";
 layers = (
 {
+.lastUpdate = 719352299.63;
 layerId = master01;
 width = 478;
 }
@@ -50109,6 +50707,7 @@ glyphname = thinspace;
 lastChange = "2023-10-18 20:04:59 +0000";
 layers = (
 {
+.lastUpdate = 719352299.64;
 layerId = master01;
 width = 256;
 }
@@ -50121,6 +50720,7 @@ glyphname = hairspace;
 lastChange = "2023-10-18 20:04:59 +0000";
 layers = (
 {
+.lastUpdate = 719352299.645;
 layerId = master01;
 width = 143;
 }
@@ -50133,6 +50733,7 @@ glyphname = zerowidthspace;
 lastChange = "2023-10-18 20:04:59 +0000";
 layers = (
 {
+.lastUpdate = 719352299.651;
 layerId = master01;
 width = 0;
 }
@@ -50145,6 +50746,7 @@ glyphname = narrownbspace;
 lastChange = "2023-10-18 20:04:59 +0000";
 layers = (
 {
+.lastUpdate = 719352299.626;
 layerId = master01;
 width = 93;
 }
@@ -50157,6 +50759,7 @@ glyphname = "mediumspace-math";
 lastChange = "2023-10-18 20:04:59 +0000";
 layers = (
 {
+.lastUpdate = 719352299.592;
 layerId = master01;
 width = 455;
 }
@@ -50322,6 +50925,7 @@ kernRight = KO_colon;
 lastChange = "2023-10-18 20:30:22 +0000";
 layers = (
 {
+.lastUpdate = 719353803.947;
 layerId = master01;
 shapes = (
 {
@@ -50413,6 +51017,7 @@ kernRight = KO_ellipsis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.815;
 layerId = master01;
 shapes = (
 {
@@ -50487,6 +51092,7 @@ kernRight = KO_exclamdown;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.89;
 layerId = master01;
 shapes = (
 {
@@ -50576,6 +51182,7 @@ kernRight = KO_questiondown;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.847;
 layerId = master01;
 shapes = (
 {
@@ -50599,6 +51206,7 @@ glyphname = periodcentered;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.864;
 layerId = master01;
 shapes = (
 {
@@ -50622,6 +51230,7 @@ glyphname = bullet;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.901;
 layerId = master01;
 shapes = (
 {
@@ -50798,6 +51407,7 @@ glyphname = periodcentered.loclCAT;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353736.675;
 layerId = master01;
 shapes = (
 {
@@ -50816,6 +51426,7 @@ kernRight = KO_ellipsis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.903;
 layerId = master01;
 shapes = (
 {
@@ -50946,6 +51557,7 @@ kernRight = KO_nonbreakinghyphen;
 lastChange = "2023-10-18 20:05:57 +0000";
 layers = (
 {
+.lastUpdate = 719353003.634;
 layerId = master01;
 shapes = (
 {
@@ -51321,6 +51933,7 @@ kernRight = KO_quotesinglbase;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353439.891;
 layerId = master01;
 shapes = (
 {
@@ -51348,6 +51961,7 @@ kernRight = KO_quotedblbase;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719352993.671;
 layerId = master01;
 shapes = (
 {
@@ -51381,6 +51995,7 @@ kernRight = KO_quotedblleft;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353439.891;
 layerId = master01;
 shapes = (
 {
@@ -51411,6 +52026,7 @@ kernRight = KO_quotedblright;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719352993.627;
 layerId = master01;
 shapes = (
 {
@@ -51566,6 +52182,7 @@ kernRight = KO_guillemetleft;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719352993.697;
 layerId = master01;
 shapes = (
 {
@@ -51595,6 +52212,7 @@ kernRight = KO_guillemetright;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719352993.653;
 layerId = master01;
 shapes = (
 {
@@ -51688,6 +52306,7 @@ kernRight = KO_quotedbl;
 lastChange = "2023-10-18 20:30:22 +0000";
 layers = (
 {
+.lastUpdate = 719352993.717;
 layerId = master01;
 shapes = (
 {
@@ -51798,6 +52417,7 @@ kernRight = KO_baht;
 lastChange = "2023-10-18 20:04:18 +0000";
 layers = (
 {
+.lastUpdate = 719352236.795;
 anchors = (
 {
 name = bottom;
@@ -52601,6 +53221,7 @@ kernRight = KO_second;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353677.282;
 layerId = master01;
 shapes = (
 {
@@ -52827,6 +53448,7 @@ kernRight = KO_numero;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353677.286;
 layerId = master01;
 shapes = (
 {
@@ -52922,6 +53544,7 @@ kernRight = KO_cent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353440.002;
 layerId = master01;
 shapes = (
 {
@@ -53073,6 +53696,7 @@ kernRight = KO_dollar;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353440.016;
 layerId = master01;
 shapes = (
 {
@@ -53141,6 +53765,7 @@ kernRight = KO_euro;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719352192.984;
 anchors = (
 {
 name = bottom;
@@ -53313,6 +53938,7 @@ kernRight = KO_hryvnia;
 lastChange = "2023-10-18 20:04:18 +0000";
 layers = (
 {
+.lastUpdate = 719352188.96;
 layerId = master01;
 shapes = (
 {
@@ -53526,6 +54152,7 @@ kernRight = KO_yen;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719352993.67;
 layerId = master01;
 shapes = (
 {
@@ -53811,6 +54438,7 @@ kernRight = KO_notequal;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353677.299;
 layerId = master01;
 shapes = (
 {
@@ -53838,6 +54466,7 @@ kernRight = KO_greater;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719352993.718;
 layerId = master01;
 shapes = (
 {
@@ -53896,6 +54525,7 @@ kernRight = KO_greaterequal;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353677.288;
 layerId = master01;
 shapes = (
 {
@@ -53951,6 +54581,7 @@ kernRight = KO_plusminus;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353677.277;
 layerId = master01;
 shapes = (
 {
@@ -53985,6 +54616,7 @@ kernRight = KO_approxequal;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353677.279;
 layerId = master01;
 shapes = (
 {
@@ -55099,6 +55731,7 @@ glyphname = dottedCircle;
 lastChange = "2023-10-18 20:05:29 +0000";
 layers = (
 {
+.lastUpdate = 719352329.038;
 anchors = (
 {
 name = bottom;
@@ -55424,6 +56057,7 @@ glyphname = dotaccentcomb;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719352088.008;
 anchors = (
 {
 name = _top;
@@ -55517,6 +56151,7 @@ glyphname = gravecomb_macroncomb;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353781.456;
 layerId = master01;
 shapes = (
 {
@@ -55579,6 +56214,7 @@ glyphname = acutecomb_macroncomb;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353781.454;
 layerId = master01;
 shapes = (
 {
@@ -55991,6 +56627,7 @@ glyphname = macroncomb_gravecomb;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.852;
 layerId = master01;
 shapes = (
 {
@@ -56013,6 +56650,7 @@ glyphname = macroncomb_acutecomb;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353803.777;
 layerId = master01;
 shapes = (
 {
@@ -58699,6 +59337,7 @@ glyphname = commaaccentcomb.loclMAH;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353440.029;
 layerId = master01;
 shapes = (
 {
@@ -58716,6 +59355,7 @@ glyphname = dieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719352993.68;
 layerId = master01;
 shapes = (
 {
@@ -58734,6 +59374,7 @@ glyphname = dotaccent;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353439.949;
 layerId = master01;
 shapes = (
 {
@@ -58752,6 +59393,7 @@ glyphname = grave;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719352993.664;
 layerId = master01;
 shapes = (
 {
@@ -58770,6 +59412,7 @@ glyphname = acute;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719352993.646;
 layerId = master01;
 shapes = (
 {
@@ -58788,6 +59431,7 @@ glyphname = hungarumlaut;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719352993.651;
 layerId = master01;
 shapes = (
 {
@@ -58806,6 +59450,7 @@ glyphname = circumflex;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719352993.688;
 layerId = master01;
 shapes = (
 {
@@ -58824,6 +59469,7 @@ glyphname = caron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719352993.642;
 layerId = master01;
 shapes = (
 {
@@ -58842,6 +59488,7 @@ glyphname = breve;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719352993.631;
 layerId = master01;
 shapes = (
 {
@@ -58860,6 +59507,7 @@ glyphname = ring;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719352993.726;
 layerId = master01;
 shapes = (
 {
@@ -58878,6 +59526,7 @@ glyphname = tilde;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719352993.66;
 layerId = master01;
 shapes = (
 {
@@ -58907,6 +59556,7 @@ glyphname = macron;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353439.97;
 layerId = master01;
 shapes = (
 {
@@ -58925,6 +59575,7 @@ glyphname = cedilla;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719352993.679;
 layerId = master01;
 shapes = (
 {
@@ -58954,6 +59605,7 @@ glyphname = ogonek;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719353439.992;
 layerId = master01;
 shapes = (
 {
@@ -58972,6 +59624,7 @@ glyphname = uniA7AE;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
 {
+.lastUpdate = 719352073.793;
 layerId = master01;
 shapes = (
 {
