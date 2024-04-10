@@ -1,12 +1,6 @@
 {
-.appVersion = "3227";
+.appVersion = "3249";
 .formatVersion = 3;
-DisplayStrings = (
-"ŋ̀nɥ̀",
-"ı/itildebelow.dotles",
-"ı/idotbelow.dotless",
-"/gravecomb.case/gravecomb_macroncomb.case/macroncomb.case/macroncomb_gravecomb.case/macroncomb_acutecomb.case"
-);
 classes = (
 {
 automatic = 1;
@@ -86,6 +80,9 @@ languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn MAH;
 languagesystem latn NSM;
+languagesystem latn ISM;
+languagesystem latn SKS;
+languagesystem latn LSM;
 languagesystem latn CAT;
 languagesystem latn NLD;
 ";
@@ -447,6 +444,7 @@ code = "sub periodcentered.loclCAT by periodcentered.loclCAT.case;
 sub dieresiscomb by dieresiscomb.case;
 sub dotaccentcomb by dotaccentcomb.case;
 sub gravecomb by gravecomb.case;
+sub gravecomb_macroncomb by gravecomb_macroncomb.case;
 sub acutecomb by acutecomb.case;
 sub hungarumlautcomb by hungarumlautcomb.case;
 sub circumflexcomb by circumflexcomb.case;
@@ -463,6 +461,8 @@ sub brevecomb_hookabovecomb by brevecomb_hookabovecomb.case;
 sub ringcomb by ringcomb.case;
 sub tildecomb by tildecomb.case;
 sub macroncomb by macroncomb.case;
+sub macroncomb_gravecomb by macroncomb_gravecomb.case;
+sub macroncomb_acutecomb by macroncomb_acutecomb.case;
 sub hookabovecomb by hookabovecomb.case;
 sub dblgravecomb by dblgravecomb.case;
 sub breveinvertedcomb by breveinvertedcomb.case;
@@ -781,7 +781,7 @@ glyphs = (
 glyphname = A;
 kernLeft = KO_A;
 kernRight = KO_A;
-lastChange = "2023-10-18 20:30:22 +0000";
+lastChange = "2024-04-05 14:19:57 +0000";
 layers = (
 {
 anchors = (
@@ -3533,7 +3533,7 @@ unicode = 7684;
 glyphname = Bhook;
 kernLeft = KO_Bhook;
 kernRight = KO_B;
-lastChange = "2023-10-18 20:08:41 +0000";
+lastChange = "2024-04-05 14:17:01 +0000";
 layers = (
 {
 anchors = (
@@ -3585,6 +3585,20 @@ nodes = (
 {
 closed = 1;
 nodes = (
+(-59,1243,l),
+(-69,1371,o),
+(16,1430,o),
+(123,1430,cs),
+(180,1430,l),
+(236,1612,l),
+(-85,1612,o),
+(-247,1493,o),
+(-234,1243,c)
+);
+},
+{
+closed = 1;
+nodes = (
 (329,1418,l),
 (430,1418,o),
 (578,1341,o),
@@ -3592,20 +3606,6 @@ nodes = (
 (578,971,o),
 (450,818,o),
 (329,838,c)
-);
-},
-{
-closed = 1;
-nodes = (
-(-85,1612,o),
-(-247,1493,o),
-(-234,1243,c),
-(-59,1243,l),
-(-69,1371,o),
-(16,1430,o),
-(123,1430,cs),
-(180,1430,l),
-(236,1612,l)
 );
 }
 );
@@ -4680,7 +4680,7 @@ unicode = 7692;
 glyphname = Dhook;
 kernLeft = KO_Dhook;
 kernRight = KO_D;
-lastChange = "2023-10-18 20:08:10 +0000";
+lastChange = "2024-04-05 14:22:22 +0000";
 layers = (
 {
 anchors = (
@@ -4711,7 +4711,7 @@ nodes = (
 (889,1406,o),
 (470,1611,o),
 (236,1611,c),
-(155,1465,l),
+(146,1465,l),
 (146,-19,l)
 );
 },
@@ -21487,7 +21487,7 @@ unicode = 7922;
 glyphname = Yhook;
 kernLeft = KO_Y;
 kernRight = KO_Yhook;
-lastChange = "2023-10-18 20:10:54 +0000";
+lastChange = "2024-04-05 14:20:55 +0000";
 layers = (
 {
 anchors = (
@@ -26075,7 +26075,7 @@ unicode = 7685;
 glyphname = bhook;
 kernLeft = KO_khook;
 kernRight = KO_b;
-lastChange = "2023-10-18 20:13:32 +0000";
+lastChange = "2024-04-05 14:21:06 +0000";
 layers = (
 {
 anchors = (
@@ -26112,8 +26112,8 @@ nodes = (
 (570,1437,c),
 (570,1612,l),
 (246,1624,o),
-(105,1468,o),
-(105,1211,cs),
+(107,1468,o),
+(107,1211,cs),
 (107,-19,l),
 (204,-19,l),
 (253,57,l),
@@ -26125,7 +26125,7 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(324,888,o),
+(325,888,o),
 (378,913,o),
 (438,913,cs),
 (549,913,o),
@@ -26137,7 +26137,7 @@ nodes = (
 (378,149,o),
 (324,174,o),
 (286,218,c),
-(285,843,l)
+(286,843,l)
 );
 }
 );
@@ -27395,7 +27395,7 @@ unicode = 7693;
 glyphname = dhook;
 kernLeft = KO_d;
 kernRight = KO_dhook;
-lastChange = "2023-10-18 20:13:37 +0000";
+lastChange = "2024-04-05 14:21:12 +0000";
 layers = (
 {
 anchors = (
@@ -27426,8 +27426,8 @@ nodes = (
 (687,59,c),
 (736,-19,l),
 (835,-19,l),
-(833,1280,ls),
-(833,1362,o),
+(835,1280,ls),
+(835,1362,o),
 (892,1447,o),
 (1000,1437,c),
 (1000,1612,l),
@@ -27453,8 +27453,8 @@ nodes = (
 (389,913,o),
 (500,913,cs),
 (561,913,o),
-(615,887,o),
-(653,842,c),
+(616,887,o),
+(654,842,c),
 (654,220,l),
 (615,175,o),
 (561,149,o),
@@ -33298,7 +33298,7 @@ unicode = 312;
 glyphname = khook;
 kernLeft = KO_khook;
 kernRight = KO_khook;
-lastChange = "2023-10-18 20:14:16 +0000";
+lastChange = "2024-04-05 14:21:15 +0000";
 layers = (
 {
 anchors = (
@@ -33329,8 +33329,8 @@ nodes = (
 (588,1062,l),
 (288,572,l),
 (286,571,l),
-(285,1222,ls),
-(285,1362,o),
+(286,1222,ls),
+(286,1362,o),
 (342,1447,o),
 (570,1437,c),
 (570,1612,l),
@@ -50969,23 +50969,6 @@ R = hyphen;
 };
 },
 {
-glyphname = softhyphen;
-lastChange = "2023-10-18 20:04:12 +0000";
-layers = (
-{
-layerId = master01;
-width = 0;
-}
-);
-unicode = 173;
-userData = {
-KernOnSpecialSpacing = {
-L = hyphen;
-R = hyphen;
-};
-};
-},
-{
 glyphname = endash;
 kernLeft = KO_hyphen;
 kernRight = KO_hyphen;
@@ -51455,7 +51438,7 @@ R = quotes;
 glyphname = quotedblbase;
 kernLeft = KO_quotedblbase;
 kernRight = KO_quotedblbase;
-lastChange = "2023-10-18 20:04:12 +0000";
+lastChange = "2024-04-05 13:31:33 +0000";
 layers = (
 {
 layerId = master01;
@@ -51905,7 +51888,7 @@ color = 1;
 glyphname = baht;
 kernLeft = KO_baht;
 kernRight = KO_baht;
-lastChange = "2023-10-18 20:04:18 +0000";
+lastChange = "2024-04-05 14:17:04 +0000";
 layers = (
 {
 anchors = (
@@ -51959,6 +51942,15 @@ nodes = (
 {
 closed = 1;
 nodes = (
+(569,-177,l),
+(569,1771,l),
+(438,1771,l),
+(438,-177,l)
+);
+},
+{
+closed = 1;
+nodes = (
 (329,1418,l),
 (510,1418,o),
 (658,1341,o),
@@ -51966,15 +51958,6 @@ nodes = (
 (658,971,o),
 (530,818,o),
 (329,838,c)
-);
-},
-{
-closed = 1;
-nodes = (
-(569,-177,l),
-(569,1771,l),
-(438,1771,l),
-(438,-177,l)
 );
 }
 );
@@ -55206,7 +55189,7 @@ unicode = 8597;
 },
 {
 glyphname = dottedCircle;
-lastChange = "2023-10-18 20:05:29 +0000";
+lastChange = "2024-04-05 14:31:04 +0000";
 layers = (
 {
 anchors = (
@@ -55215,8 +55198,16 @@ name = bottom;
 pos = (922,0);
 },
 {
+name = ogonek;
+pos = (1448,0);
+},
+{
 name = top;
 pos = (922,2020);
+},
+{
+name = topright;
+pos = (1510,1593);
 }
 );
 layerId = master01;
@@ -56573,6 +56564,23 @@ L = NoKerning;
 R = NoKerning;
 };
 };
+},
+{
+glyphname = commaaccentcomb.loclMAH;
+lastChange = "2023-10-18 20:04:12 +0000";
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = commaaccentcomb.case;
+}
+);
+width = 558;
+}
+);
+metricLeft = hyphen;
+metricRight = "=|";
 },
 {
 glyphname = cedillacomb;
@@ -58291,7 +58299,7 @@ width = 805;
 },
 {
 glyphname = hookabovecomb.case;
-lastChange = "2023-10-18 20:04:12 +0000";
+lastChange = "2024-04-05 14:17:08 +0000";
 layers = (
 {
 anchors = (
@@ -58309,20 +58317,20 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(242,1281,l),
-(312,1281,o),
-(350,1313,o),
-(350,1356,cs),
-(350,1419,o),
-(273,1466,o),
-(150,1477,c),
-(186,1613,l),
-(391,1592,o),
-(518,1481,o),
-(518,1351,cs),
-(518,1243,o),
 (431,1182,o),
-(242,1165,c)
+(518,1243,o),
+(518,1351,cs),
+(518,1481,o),
+(391,1592,o),
+(186,1613,c),
+(150,1477,l),
+(273,1466,o),
+(350,1419,o),
+(350,1356,cs),
+(350,1313,o),
+(312,1281,o),
+(242,1281,c),
+(242,1165,l)
 );
 }
 );
@@ -58879,23 +58887,6 @@ metricLeft = hyphen;
 metricRight = "=|";
 },
 {
-glyphname = commaaccentcomb.loclMAH;
-lastChange = "2023-10-18 20:04:12 +0000";
-layers = (
-{
-layerId = master01;
-shapes = (
-{
-ref = commaaccentcomb.case;
-}
-);
-width = 558;
-}
-);
-metricLeft = hyphen;
-metricRight = "=|";
-},
-{
 glyphname = dieresis;
 lastChange = "2023-10-18 20:04:12 +0000";
 layers = (
@@ -59180,16 +59171,6 @@ width = 739;
 }
 );
 unicode = 42926;
-},
-{
-glyphname = newGlyph;
-lastChange = "2023-10-18 20:04:12 +0000";
-layers = (
-{
-layerId = master01;
-width = 600;
-}
-);
 },
 {
 glyphname = capbarlong_part.;
@@ -65628,6 +65609,7 @@ master01 = {
 "@MMK_R_KO_plus" = -222;
 "@MMK_R_KO_question" = -48;
 "@MMK_R_KO_quotedbl" = -35;
+"@MMK_R_KO_quotedblbase" = -220;
 "@MMK_R_KO_quotedblleft" = -64;
 "@MMK_R_KO_quoteright" = -25;
 "@MMK_R_KO_registered" = -70;
@@ -88673,13 +88655,13 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 }
 );
 },
 {
 key = licenseURL;
-value = "https://scripts.sil.org/OFL";
+value = "https://openfontlicense.org";
 },
 {
 key = manufacturers;
